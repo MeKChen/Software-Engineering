@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(SudokuProject.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  SudokuProject.vcxproj -> D:\软件工程\second\SudokuProject\SudokuProject\..\BIN\sudoku.exe
+  SudokuProject.vcxproj -> ..\BIN\sudoku.pdb (Partial PDB)
