@@ -4,5 +4,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCT
 d:\软件工程\second\sudokuproject\sudokuproject\main.cpp(126): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
 d:\软件工程\second\sudokuproject\sudokuproject\main.cpp(88): warning C4474: sscanf: 格式字符串中传递的参数太多
   d:\软件工程\second\sudokuproject\sudokuproject\main.cpp(88): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
   SudokuProject.vcxproj -> D:\软件工程\second\SudokuProject\SudokuProject\..\BIN\sudoku.exe
   SudokuProject.vcxproj -> ..\BIN\sudoku.pdb (Partial PDB)

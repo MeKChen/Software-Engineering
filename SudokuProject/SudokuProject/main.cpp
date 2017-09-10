@@ -147,13 +147,13 @@ int main(int argc,char *argv[])
 		{
 			for (j = 0; j < 9; j++)
 			{
-				printf("%d ", data[i][j]);
+				//printf("%d ", data[i][j]);
 				fprintf(p, "%d ", data[i][j]);
 			}
-			printf("\n");
+			//printf("\n");
 			fprintf(p, "\n");
 		}
-		printf("\n");
+		//printf("\n");
 		fprintf(p, "\n");
 	}
 	fclose(p);
