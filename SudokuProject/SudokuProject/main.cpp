@@ -77,7 +77,7 @@ int main(int argc,char *argv[])
 {
 	FILE *p;
 	p = fopen("sudoku.txt", "w");
-	int z,n, flag, f, flag1;
+	int m,z,n, flag, f, flag1;
 	std::string s;
 	char c[10000];
 
@@ -85,31 +85,37 @@ int main(int argc,char *argv[])
 	//{
 	//	memset(c, 0,10000*sizeof(char));
 	//	flag1 = 0;
-		sscanf(argv[2],"%s",&c,10000);
+	sscanf(argv[2],"%s",&c,10000);
 		//scanf("%s", &c);
-		s = c;
-		int l = s.length();
-		for (f = 0; f < l; ++f)
+	s = c;
+	int l = s.length();
+	for (f = 0; f < l; ++f)
+	{
+		if (s[f]<'0' || s[f]>'9')
 		{
-			if (s[f]<'0' || s[f]>'9')
-			{
-				flag1 = 1;
-				break;
-			}
+			flag1 = 1;
+			break;
 		}
+	}
 
-		if (flag1 == 1)
-		{
-			printf("输入错误\n");
-		}
-		else
-		{
-			n = atoi(c);
-			//break;
-		}	
+	if (flag1 == 1)
+	{
+		printf("输入错误\n");
+	}
+	else
+	{
+		n = atoi(c);
+		//break;
+	}	
 	//}
+	if (n > 1000000)
+	{
+		printf("输入的数字过大\n");
+	}
+	else
+		m = n;
 
-	for (z = 0; z < n; z++)
+	for (z = 0; z < m; z++)
 	{
 		int i = 0, j = 0;
 		for (i = 0; i < 9; i++)
@@ -141,13 +147,13 @@ int main(int argc,char *argv[])
 		{
 			for (j = 0; j < 9; j++)
 			{
-				//printf("%d ", data[i][j]);
+				printf("%d ", data[i][j]);
 				fprintf(p, "%d ", data[i][j]);
 			}
-			//printf("\n");
+			printf("\n");
 			fprintf(p, "\n");
 		}
-		//printf("\n");
+		printf("\n");
 		fprintf(p, "\n");
 	}
 	fclose(p);
