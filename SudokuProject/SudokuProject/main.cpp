@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<cstdlib>
+#include<string>
 #include<time.h>
 
 int data[9][9];
@@ -37,7 +38,7 @@ bool judge(int x, int y, int q)
 	int count = y % 3 + x % 3 * 3;
 	while (count--)
 	{
-		if (q == data[x - x % 3 + count / 3][j - j % 3 + count % 3])
+		if (q == data[ x / 3 * 3 + count / 3][ j / 3 * 3 + count % 3])
 			return false;
 	}
 	return true;
@@ -72,19 +73,41 @@ bool fill(int i, int j)
 	return false;
 }
 
-int main()
+int main(int argc,char *argv[])
 {
 	FILE *p;
 	p = fopen("sudoku.txt", "w");
-	int z, n, flag;
+	int z,n, flag, f, flag1;
+	std::string s;
+	char c[10000];
 
-	while (!scanf("%d", &n))
-	{
-		rewind(stdin);
-		printf("输入错误，请重新输入：\n");
-	}
+	//while (1)
+	//{
+	//	memset(c, 0,10000*sizeof(char));
+	//	flag1 = 0;
+		sscanf(argv[2],"%s",&c,10000);
+		//scanf("%s", &c);
+		s = c;
+		int l = s.length();
+		for (f = 0; f < l; ++f)
+		{
+			if (s[f]<'0' || s[f]>'9')
+			{
+				flag1 = 1;
+				break;
+			}
+		}
 
-
+		if (flag1 == 1)
+		{
+			printf("输入错误\n");
+		}
+		else
+		{
+			n = atoi(c);
+			//break;
+		}	
+	//}
 
 	for (z = 0; z < n; z++)
 	{
