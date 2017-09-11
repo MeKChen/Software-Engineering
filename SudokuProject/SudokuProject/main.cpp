@@ -157,6 +157,6 @@ int main(int argc,char *argv[])
 		fprintf(p, "\n");
 	}
 	fclose(p);
-	system("pause");
+	//system("pause");
 	return 0;
 }
