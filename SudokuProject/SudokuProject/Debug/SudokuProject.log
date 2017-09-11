@@ -1,9 +1,9 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(SudokuProject.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
   main.cpp
-d:\软件工程\second\sudokuproject\sudokuproject\main.cpp(126): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-d:\软件工程\second\sudokuproject\sudokuproject\main.cpp(88): warning C4474: sscanf: 格式字符串中传递的参数太多
-  d:\软件工程\second\sudokuproject\sudokuproject\main.cpp(88): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+d:\软件工程\second\sudokuproject\sudokuproject\main.cpp(78): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\软件工程\second\sudokuproject\sudokuproject\main.cpp(89): warning C4474: sscanf: 格式字符串中传递的参数太多
+  d:\软件工程\second\sudokuproject\sudokuproject\main.cpp(89): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
 LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
 main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
   SudokuProject.vcxproj -> D:\软件工程\second\SudokuProject\SudokuProject\..\BIN\sudoku.exe

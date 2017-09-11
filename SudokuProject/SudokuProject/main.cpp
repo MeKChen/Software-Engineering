@@ -75,9 +75,10 @@ bool fill(int i, int j)
 
 int main(int argc,char *argv[])
 {
+	srand(time(NULL));
 	FILE *p;
 	p = fopen("sudoku.txt", "w");
-	int m,z,n, flag, f, flag1;
+	int m, z, n, flag, f, flag1;
 	std::string s;
 	char c[10000];
 
@@ -105,25 +106,27 @@ int main(int argc,char *argv[])
 	else
 	{
 		n = atoi(c);
+
+		if (n > 1000000)
+		{
+			printf("输入的数字过大\n");
+		}
+		else
+			m = n;
 		//break;
 	}	
 	//}
-	if (n > 1000000)
-	{
-		printf("输入的数字过大\n");
-	}
-	else
-		m = n;
-
+	
 	for (z = 0; z < m; z++)
 	{
 		int i = 0, j = 0;
-		for (i = 0; i < 9; i++)
+		/*for (i = 0; i < 9; i++)
 			for (j = 0; j < 9; j++)
 			{
 				data[i][j] = 0;            //数独盘初始化为零
-			}
-		srand(time(NULL));
+			}*/
+
+		//memset(&data[0][0], 0, sizeof(data));
 		rd(first);
 
 		for (i = 0; i < 9; i++)
