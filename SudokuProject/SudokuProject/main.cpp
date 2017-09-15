@@ -47,7 +47,7 @@ bool judge(int x, int y, int q)
 //填数函数，递归
 bool fill(int i, int j)
 {
-	int s, k, p;
+	int s, k, p, j1, i1;
 	if (i > 8)
 		return true;
 	s = 1 + rand() % 9;               //使其填数不唯一
@@ -57,16 +57,18 @@ bool fill(int i, int j)
 		if (judge(i, j, p))
 		{
 			data[i][j] = p;
+			
 			if (j == 8)
 			{
-				i++;
-				j = 0;
+				i1 = i + 1;
+				j1 = 0;
 			}
 			else
 			{
-				j++;
+				i1 = i;
+				j1=j+1;
 			}
-			if (fill(i, j))
+			if (fill(i1, j1))
 				return true;
 		}
 	}
