@@ -1,0 +1,53 @@
+﻿  main.cpp
+d:\软件工程\third\random\random\json\reader.h(38): warning C4996: 'Json::Reader::Char': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(37): note: 参见“Json::Reader::Char”的声明
+d:\软件工程\third\random\random\json\reader.h(181): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(182): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(189): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(196): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(212): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(213): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(216): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(217): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(219): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(226): warning C4996: 'Json::Reader::Char': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(37): note: 参见“Json::Reader::Char”的声明
+d:\软件工程\third\random\random\json\reader.h(228): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(229): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(230): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(233): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(234): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(237): warning C4996: 'Json::Reader::Nodes': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(236): note: 参见“Json::Reader::Nodes”的声明
+d:\软件工程\third\random\random\json\reader.h(238): warning C4996: 'Json::Reader::Errors': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(192): note: 参见“Json::Reader::Errors”的声明
+d:\软件工程\third\random\random\json\reader.h(240): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(241): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(242): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\json\reader.h(243): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\random\random\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\random\random\main.cpp(256): warning C4996: 'Json::StyledWriter': Use StreamWriterBuilder instead
+  d:\软件工程\third\random\random\json\writer.h(222): note: 参见“Json::StyledWriter”的声明
+d:\软件工程\third\random\random\main.cpp(256): warning C4996: 'Json::StyledWriter::StyledWriter': Use StreamWriterBuilder instead
+  d:\软件工程\third\random\random\json\writer.h(224): note: 参见“Json::StyledWriter::StyledWriter”的声明
+d:\软件工程\third\random\random\main.cpp(257): warning C4996: 'Json::StyledWriter::write': Use StreamWriterBuilder instead
+  d:\软件工程\third\random\random\json\writer.h(232): note: 参见“Json::StyledWriter::write”的声明
+  Random.vcxproj -> D:\软件工程\Third\Random\Debug\Random.exe
+  Random.vcxproj -> D:\软件工程\Third\Random\Debug\Random.pdb (Partial PDB)

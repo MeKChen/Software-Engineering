@@ -1,0 +1,817 @@
+{
+   "matched_departmentno_studentno" : [
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0002" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0034" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0034" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0057" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0086" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0086" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0079" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0173" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0151" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0152" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0008" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0060" ]
+      },
+      {
+         "department_no" : [ "D000" ],
+         "student_no" : [ "S0005" ]
+      },
+      {
+         "department_no" : [ "D001" ],
+         "student_no" : [ "S0065" ]
+      },
+      {
+         "department_no" : [ "D001" ],
+         "student_no" : [ "S0024" ]
+      },
+      {
+         "department_no" : [ "D001" ],
+         "student_no" : [ "S0004" ]
+      },
+      {
+         "department_no" : [ "D001" ],
+         "student_no" : [ "S0172" ]
+      },
+      {
+         "department_no" : [ "D001" ],
+         "student_no" : [ "S0005" ]
+      },
+      {
+         "department_no" : [ "D002" ],
+         "student_no" : [ "S0069" ]
+      },
+      {
+         "department_no" : [ "D002" ],
+         "student_no" : [ "S0062" ]
+      },
+      {
+         "department_no" : [ "D002" ],
+         "student_no" : [ "S0024" ]
+      },
+      {
+         "department_no" : [ "D002" ],
+         "student_no" : [ "S0019" ]
+      },
+      {
+         "department_no" : [ "D002" ],
+         "student_no" : [ "S0064" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0189" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0075" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0188" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0001" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0129" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0164" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0022" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0196" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0152" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0008" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0169" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0006" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0110" ]
+      },
+      {
+         "department_no" : [ "D003" ],
+         "student_no" : [ "S0040" ]
+      },
+      {
+         "department_no" : [ "D004" ],
+         "student_no" : [ "S0189" ]
+      },
+      {
+         "department_no" : [ "D004" ],
+         "student_no" : [ "S0065" ]
+      },
+      {
+         "department_no" : [ "D004" ],
+         "student_no" : [ "S0172" ]
+      },
+      {
+         "department_no" : [ "D004" ],
+         "student_no" : [ "S0032" ]
+      },
+      {
+         "department_no" : [ "D004" ],
+         "student_no" : [ "S0121" ]
+      },
+      {
+         "department_no" : [ "D004" ],
+         "student_no" : [ "S0192" ]
+      },
+      {
+         "department_no" : [ "D004" ],
+         "student_no" : [ "S0197" ]
+      },
+      {
+         "department_no" : [ "D004" ],
+         "student_no" : [ "S0104" ]
+      },
+      {
+         "department_no" : [ "D004" ],
+         "student_no" : [ "S0020" ]
+      },
+      {
+         "department_no" : [ "D005" ],
+         "student_no" : [ "S0044" ]
+      },
+      {
+         "department_no" : [ "D005" ],
+         "student_no" : [ "S0185" ]
+      },
+      {
+         "department_no" : [ "D005" ],
+         "student_no" : [ "S0069" ]
+      },
+      {
+         "department_no" : [ "D005" ],
+         "student_no" : [ "S0154" ]
+      },
+      {
+         "department_no" : [ "D005" ],
+         "student_no" : [ "S0129" ]
+      },
+      {
+         "department_no" : [ "D005" ],
+         "student_no" : [ "S0086" ]
+      },
+      {
+         "department_no" : [ "D005" ],
+         "student_no" : [ "S0164" ]
+      },
+      {
+         "department_no" : [ "D005" ],
+         "student_no" : [ "S0071" ]
+      },
+      {
+         "department_no" : [ "D005" ],
+         "student_no" : [ "S0169" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0114" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0097" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0174" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0186" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0079" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0079" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0041" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0058" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0102" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0102" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0093" ]
+      },
+      {
+         "department_no" : [ "D006" ],
+         "student_no" : [ "S0010" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0116" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0057" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0087" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0143" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0031" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0077" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0081" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0121" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0124" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0195" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0025" ]
+      },
+      {
+         "department_no" : [ "D007" ],
+         "student_no" : [ "S0126" ]
+      },
+      {
+         "department_no" : [ "D008" ],
+         "student_no" : [ "S0059" ]
+      },
+      {
+         "department_no" : [ "D008" ],
+         "student_no" : [ "S0001" ]
+      },
+      {
+         "department_no" : [ "D008" ],
+         "student_no" : [ "S0019" ]
+      },
+      {
+         "department_no" : [ "D008" ],
+         "student_no" : [ "S0196" ]
+      },
+      {
+         "department_no" : [ "D008" ],
+         "student_no" : [ "S0196" ]
+      },
+      {
+         "department_no" : [ "D008" ],
+         "student_no" : [ "S0032" ]
+      },
+      {
+         "department_no" : [ "D008" ],
+         "student_no" : [ "S0195" ]
+      },
+      {
+         "department_no" : [ "D009" ],
+         "student_no" : [ "S0086" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0154" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0143" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0153" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0152" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0032" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0006" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0006" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0102" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0183" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0081" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0098" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0180" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0126" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0141" ]
+      },
+      {
+         "department_no" : [ "D010" ],
+         "student_no" : [ "S0112" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0140" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0120" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0188" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0062" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0164" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0173" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0019" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0147" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0081" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0198" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0128" ]
+      },
+      {
+         "department_no" : [ "D011" ],
+         "student_no" : [ "S0142" ]
+      },
+      {
+         "department_no" : [ "D012" ],
+         "student_no" : [ "S0172" ]
+      },
+      {
+         "department_no" : [ "D012" ],
+         "student_no" : [ "S0015" ]
+      },
+      {
+         "department_no" : [ "D012" ],
+         "student_no" : [ "S0060" ]
+      },
+      {
+         "department_no" : [ "D012" ],
+         "student_no" : [ "S0032" ]
+      },
+      {
+         "department_no" : [ "D012" ],
+         "student_no" : [ "S0147" ]
+      },
+      {
+         "department_no" : [ "D012" ],
+         "student_no" : [ "S0178" ]
+      },
+      {
+         "department_no" : [ "D012" ],
+         "student_no" : [ "S0121" ]
+      },
+      {
+         "department_no" : [ "D012" ],
+         "student_no" : [ "S0198" ]
+      },
+      {
+         "department_no" : [ "D012" ],
+         "student_no" : [ "S0056" ]
+      },
+      {
+         "department_no" : [ "D013" ],
+         "student_no" : [ "S0109" ]
+      },
+      {
+         "department_no" : [ "D013" ],
+         "student_no" : [ "S0002" ]
+      },
+      {
+         "department_no" : [ "D013" ],
+         "student_no" : [ "S0133" ]
+      },
+      {
+         "department_no" : [ "D013" ],
+         "student_no" : [ "S0079" ]
+      },
+      {
+         "department_no" : [ "D014" ],
+         "student_no" : [ "S0069" ]
+      },
+      {
+         "department_no" : [ "D014" ],
+         "student_no" : [ "S0186" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0189" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0140" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0057" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0134" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0137" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0004" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0100" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0151" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0196" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0172" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0043" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0138" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0117" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0010" ]
+      },
+      {
+         "department_no" : [ "D015" ],
+         "student_no" : [ "S0124" ]
+      },
+      {
+         "department_no" : [ "D016" ],
+         "student_no" : [ "S0132" ]
+      },
+      {
+         "department_no" : [ "D016" ],
+         "student_no" : [ "S0114" ]
+      },
+      {
+         "department_no" : [ "D016" ],
+         "student_no" : [ "S0140" ]
+      },
+      {
+         "department_no" : [ "D016" ],
+         "student_no" : [ "S0120" ]
+      },
+      {
+         "department_no" : [ "D016" ],
+         "student_no" : [ "S0154" ]
+      },
+      {
+         "department_no" : [ "D016" ],
+         "student_no" : [ "S0196" ]
+      },
+      {
+         "department_no" : [ "D016" ],
+         "student_no" : [ "S0151" ]
+      },
+      {
+         "department_no" : [ "D016" ],
+         "student_no" : [ "S0074" ]
+      },
+      {
+         "department_no" : [ "D016" ],
+         "student_no" : [ "S0152" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0013" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0185" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0188" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0024" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0164" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0164" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0004" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0148" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0022" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0022" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0172" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0008" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0005" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0081" ]
+      },
+      {
+         "department_no" : [ "D017" ],
+         "student_no" : [ "S0122" ]
+      },
+      {
+         "department_no" : [ "D018" ],
+         "student_no" : [ "S0044" ]
+      },
+      {
+         "department_no" : [ "D019" ],
+         "student_no" : [ "S0034" ]
+      },
+      {
+         "department_no" : [ "D019" ],
+         "student_no" : [ "S0001" ]
+      },
+      {
+         "department_no" : [ "D019" ],
+         "student_no" : [ "S0173" ]
+      },
+      {
+         "department_no" : [ "D019" ],
+         "student_no" : [ "S0074" ]
+      },
+      {
+         "department_no" : [ "D019" ],
+         "student_no" : [ "S0043" ]
+      },
+      {
+         "department_no" : [ "D019" ],
+         "student_no" : [ "S0043" ]
+      }
+   ],
+   "standalone_students" : [
+      "S0000",
+      "S0003",
+      "S0007",
+      "S0009",
+      "S0011",
+      "S0012",
+      "S0014",
+      "S0016",
+      "S0017",
+      "S0018",
+      "S0021",
+      "S0023",
+      "S0026",
+      "S0027",
+      "S0028",
+      "S0029",
+      "S0030",
+      "S0033",
+      "S0035",
+      "S0036",
+      "S0037",
+      "S0038",
+      "S0039",
+      "S0042",
+      "S0045",
+      "S0046",
+      "S0047",
+      "S0048",
+      "S0049",
+      "S0050",
+      "S0051",
+      "S0052",
+      "S0053",
+      "S0054",
+      "S0055",
+      "S0061",
+      "S0063",
+      "S0066",
+      "S0067",
+      "S0068",
+      "S0070",
+      "S0072",
+      "S0073",
+      "S0076",
+      "S0078",
+      "S0080",
+      "S0082",
+      "S0083",
+      "S0084",
+      "S0085",
+      "S0088",
+      "S0089",
+      "S0090",
+      "S0091",
+      "S0092",
+      "S0094",
+      "S0095",
+      "S0096",
+      "S0099",
+      "S0101",
+      "S0103",
+      "S0105",
+      "S0106",
+      "S0107",
+      "S0108",
+      "S0111",
+      "S0113",
+      "S0115",
+      "S0118",
+      "S0119",
+      "S0123",
+      "S0125",
+      "S0127",
+      "S0130",
+      "S0131",
+      "S0135",
+      "S0136",
+      "S0139",
+      "S0144",
+      "S0145",
+      "S0146",
+      "S0149",
+      "S0150",
+      "S0155",
+      "S0156",
+      "S0157",
+      "S0158",
+      "S0159",
+      "S0160",
+      "S0161",
+      "S0162",
+      "S0163",
+      "S0165",
+      "S0166",
+      "S0167",
+      "S0168",
+      "S0170",
+      "S0171",
+      "S0175",
+      "S0176",
+      "S0177",
+      "S0179",
+      "S0181",
+      "S0182",
+      "S0184",
+      "S0187",
+      "S0190",
+      "S0191",
+      "S0193",
+      "S0194",
+      "S0199"
+   ]
+}

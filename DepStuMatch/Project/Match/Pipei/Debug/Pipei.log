@@ -1,0 +1,75 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Pipei.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  match.cpp
+d:\软件工程\third\pipei\match\pipei\json\reader.h(38): warning C4996: 'Json::Reader::Char': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(37): note: 参见“Json::Reader::Char”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(181): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(182): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(189): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(196): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(212): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(213): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(216): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(217): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(219): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(226): warning C4996: 'Json::Reader::Char': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(37): note: 参见“Json::Reader::Char”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(228): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(229): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(230): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(233): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(234): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(237): warning C4996: 'Json::Reader::Nodes': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(236): note: 参见“Json::Reader::Nodes”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(238): warning C4996: 'Json::Reader::Errors': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(192): note: 参见“Json::Reader::Errors”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(240): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(241): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(242): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\json\reader.h(243): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(38): note: 参见“Json::Reader::Location”的声明
+d:\软件工程\third\pipei\match\pipei\match.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+d:\软件工程\third\pipei\match\pipei\match.cpp(213): warning C4996: 'Json::Reader': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(35): note: 参见“Json::Reader”的声明
+d:\软件工程\third\pipei\match\pipei\match.cpp(281): warning C4996: 'Json::StyledWriter': Use StreamWriterBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\writer.h(222): note: 参见“Json::StyledWriter”的声明
+d:\软件工程\third\pipei\match\pipei\match.cpp(213): warning C4996: 'Json::Reader::Reader': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(55): note: 参见“Json::Reader::Reader”的声明
+d:\软件工程\third\pipei\match\pipei\match.cpp(224): warning C4996: 'Json::Reader::parse': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(104): note: 参见“Json::Reader::parse”的声明
+d:\软件工程\third\pipei\match\pipei\match.cpp(281): warning C4996: 'Json::StyledWriter::StyledWriter': Use StreamWriterBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\writer.h(224): note: 参见“Json::StyledWriter::StyledWriter”的声明
+d:\软件工程\third\pipei\match\pipei\match.cpp(282): warning C4996: 'Json::StyledWriter::write': Use StreamWriterBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\writer.h(232): note: 参见“Json::StyledWriter::write”的声明
+d:\软件工程\third\pipei\match\pipei\match.cpp(287): warning C4996: 'Json::Reader::nodes_': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(237): note: 参见“Json::Reader::nodes_”的声明
+  d:\软件工程\third\pipei\match\pipei\match.cpp(287): note: 此诊断出现在编译器生成的函数“Json::Reader::~Reader(void)”中
+d:\软件工程\third\pipei\match\pipei\match.cpp(287): warning C4996: 'Json::Reader::errors_': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(238): note: 参见“Json::Reader::errors_”的声明
+  d:\软件工程\third\pipei\match\pipei\match.cpp(287): note: 此诊断出现在编译器生成的函数“Json::Reader::~Reader(void)”中
+d:\软件工程\third\pipei\match\pipei\match.cpp(287): warning C4996: 'Json::Reader::document_': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(239): note: 参见“Json::Reader::document_”的声明
+  d:\软件工程\third\pipei\match\pipei\match.cpp(287): note: 此诊断出现在编译器生成的函数“Json::Reader::~Reader(void)”中
+d:\软件工程\third\pipei\match\pipei\match.cpp(287): warning C4996: 'Json::Reader::commentsBefore_': Use CharReader and CharReaderBuilder instead
+  d:\软件工程\third\pipei\match\pipei\json\reader.h(245): note: 参见“Json::Reader::commentsBefore_”的声明
+  d:\软件工程\third\pipei\match\pipei\match.cpp(287): note: 此诊断出现在编译器生成的函数“Json::Reader::~Reader(void)”中
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+match.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  Pipei.vcxproj -> D:\软件工程\Third\Pipei\Match\Debug\Match.exe
+  Pipei.vcxproj -> D:\软件工程\Third\Pipei\Match\Debug\Match.pdb (Partial PDB)

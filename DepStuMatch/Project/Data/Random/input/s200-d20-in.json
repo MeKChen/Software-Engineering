@@ -1,0 +1,2905 @@
+{
+   "departments" : [
+      {
+         "department_no" : "D000",
+         "event_schedules" : [ "Fri.15:00-17:00", "Wed.10:00-12:00", "Thurs.10:00-12:00" ],
+         "member_limit" : 13,
+         "tags" : [
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball"
+         ]
+      },
+      {
+         "department_no" : "D001",
+         "event_schedules" : [ "Mon.13:00-15:00", "Wed.20:00-22:00" ],
+         "member_limit" : 5,
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "department_no" : "D002",
+         "event_schedules" : [ "Sat.18:00-20:00", "Wed.20:00-22:00" ],
+         "member_limit" : 5,
+         "tags" : [ "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "department_no" : "D003",
+         "event_schedules" : [ "Sat.18:00-20:00", "Tues.13:00-15:00" ],
+         "member_limit" : 14,
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball"
+         ]
+      },
+      {
+         "department_no" : "D004",
+         "event_schedules" : [ "Wed.15:00-17:00" ],
+         "member_limit" : 9,
+         "tags" : [ "writing" ]
+      },
+      {
+         "department_no" : "D005",
+         "event_schedules" : [ "Mon.18:00-20:00", "Wed.13:00-15:00", "Thurs.15:00-17:00" ],
+         "member_limit" : 9,
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing"
+         ]
+      },
+      {
+         "department_no" : "D006",
+         "event_schedules" : [ "Mon.10:00-12:00", "Wed.13:00-15:00" ],
+         "member_limit" : 12,
+         "tags" : [
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting"
+         ]
+      },
+      {
+         "department_no" : "D007",
+         "event_schedules" : [ "Mon.13:00-15:00", "Sun.13:00-15:00" ],
+         "member_limit" : 12,
+         "tags" : [ "basketball", "dancing", "singing" ]
+      },
+      {
+         "department_no" : "D008",
+         "event_schedules" : [ "Thurs.13:00-15:00" ],
+         "member_limit" : 7,
+         "tags" : [ "basketball", "dancing", "singing" ]
+      },
+      {
+         "department_no" : "D009",
+         "event_schedules" : [ "Wed.20:00-22:00" ],
+         "member_limit" : 1,
+         "tags" : [ "dancing", "singing", "guitar" ]
+      },
+      {
+         "department_no" : "D010",
+         "event_schedules" : [ "Tues.15:00-17:00", "Fri.15:00-17:00" ],
+         "member_limit" : 15,
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "department_no" : "D011",
+         "event_schedules" : [ "Mon.10:00-12:00", "Sun.10:00-12:00" ],
+         "member_limit" : 12,
+         "tags" : [ "film", "painting", "reading", "basketball", "dancing", "singing" ]
+      },
+      {
+         "department_no" : "D012",
+         "event_schedules" : [ "Fri.15:00-17:00", "Sat.10:00-12:00", "Fri.18:00-20:00" ],
+         "member_limit" : 9,
+         "tags" : [ "dancing", "singing", "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "department_no" : "D013",
+         "event_schedules" : [ "Mon.13:00-15:00", "Sun.15:00-17:00" ],
+         "member_limit" : 4,
+         "tags" : [
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing"
+         ]
+      },
+      {
+         "department_no" : "D014",
+         "event_schedules" : [ "Wed.10:00-12:00" ],
+         "member_limit" : 2,
+         "tags" : [
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing"
+         ]
+      },
+      {
+         "department_no" : "D015",
+         "event_schedules" : [ "Sun.18:00-20:00" ],
+         "member_limit" : 15,
+         "tags" : [
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball"
+         ]
+      },
+      {
+         "department_no" : "D016",
+         "event_schedules" : [ "Wed.15:00-17:00", "Sun.18:00-20:00", "Tues.15:00-17:00" ],
+         "member_limit" : 9,
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "department_no" : "D017",
+         "event_schedules" : [ "Fri.10:00-12:00", "Wed.13:00-15:00", "Tues.15:00-17:00" ],
+         "member_limit" : 15,
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "department_no" : "D018",
+         "event_schedules" : [ "Fri.13:00-15:00" ],
+         "member_limit" : 1,
+         "tags" : [
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading"
+         ]
+      },
+      {
+         "department_no" : "D019",
+         "event_schedules" : [ "Sun.13:00-15:00", "Mon.15:00-17:00" ],
+         "member_limit" : 6,
+         "tags" : [ "runing", "writing", "reading", "film", "painting" ]
+      }
+   ],
+   "students" : [
+      {
+         "available_dep" : [ "D005", "D003", "D011", "D017" ],
+         "available_schedules" : [
+            "Sat.10:00-12:00",
+            "Fri.15:00-17:00",
+            "Mon.20:00-22:00",
+            "Mon.20:00-22:00"
+         ],
+         "gpa" : 0.40000000000000002,
+         "student_no" : "S0000",
+         "tags" : [
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D019", "D008", "D003" ],
+         "available_schedules" : [ "Wed.10:00-12:00", "Fri.18:00-20:00", "Fri.10:00-12:00" ],
+         "gpa" : 7.4000000000000004,
+         "student_no" : "S0001",
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D000", "D013" ],
+         "available_schedules" : [
+            "Tues.15:00-17:00",
+            "Thurs.18:00-20:00",
+            "Sun.20:00-22:00",
+            "Thurs.20:00-22:00",
+            "Wed.15:00-17:00"
+         ],
+         "gpa" : 8.8000000000000007,
+         "student_no" : "S0002",
+         "tags" : [ "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D001", "D005", "D004", "D017", "D015" ],
+         "available_schedules" : [ "Tues.20:00-22:00", "Tues.15:00-17:00", "Fri.10:00-12:00" ],
+         "gpa" : 1.5,
+         "student_no" : "S0003",
+         "tags" : [
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D017", "D001", "D009", "D009", "D015" ],
+         "available_schedules" : [ "Sun.20:00-22:00" ],
+         "gpa" : 7.9000000000000004,
+         "student_no" : "S0004",
+         "tags" : [
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball"
+         ]
+      },
+      {
+         "available_dep" : [ "D001", "D000", "D001", "D017", "D000" ],
+         "available_schedules" : [ "Wed.20:00-22:00" ],
+         "gpa" : 6.5999999999999996,
+         "student_no" : "S0005",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D003", "D010", "D010", "D016", "D016" ],
+         "available_schedules" : [
+            "Fri.13:00-15:00",
+            "Sun.13:00-15:00",
+            "Fri.13:00-15:00",
+            "Wed.15:00-17:00",
+            "Fri.10:00-12:00"
+         ],
+         "gpa" : 7.0,
+         "student_no" : "S0006",
+         "tags" : [
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D014", "D015", "D000", "D001", "D005" ],
+         "available_schedules" : [ "Mon.10:00-12:00", "Thurs.15:00-17:00" ],
+         "gpa" : 2.7999999999999998,
+         "student_no" : "S0007",
+         "tags" : [ "painting", "reading", "basketball", "dancing", "singing" ]
+      },
+      {
+         "available_dep" : [ "D000", "D003", "D002", "D017" ],
+         "available_schedules" : [ "Mon.20:00-22:00", "Thurs.10:00-12:00", "Sat.13:00-15:00" ],
+         "gpa" : 6.2000000000000002,
+         "student_no" : "S0008",
+         "tags" : [ "guitar", "football", "runing", "writing", "reading", "film" ]
+      },
+      {
+         "available_dep" : [ "D014", "D014", "D006" ],
+         "available_schedules" : [
+            "Wed.15:00-17:00",
+            "Sat.18:00-20:00",
+            "Tues.20:00-22:00",
+            "Thurs.18:00-20:00",
+            "Tues.20:00-22:00"
+         ],
+         "gpa" : 3.5,
+         "student_no" : "S0009",
+         "tags" : [
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D001", "D006", "D015" ],
+         "available_schedules" : [ "Wed.20:00-22:00", "Tues.13:00-15:00" ],
+         "gpa" : 4.0,
+         "student_no" : "S0010",
+         "tags" : [ "reading", "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D009", "D000", "D012", "D010", "D008" ],
+         "available_schedules" : [
+            "Sat.15:00-17:00",
+            "Mon.15:00-17:00",
+            "Sun.10:00-12:00",
+            "Mon.15:00-17:00",
+            "Sun.15:00-17:00"
+         ],
+         "gpa" : 5.7000000000000002,
+         "student_no" : "S0011",
+         "tags" : [ "singing", "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D004", "D017", "D012" ],
+         "available_schedules" : [ "Mon.13:00-15:00", "Tues.20:00-22:00", "Wed.10:00-12:00" ],
+         "gpa" : 0.29999999999999999,
+         "student_no" : "S0012",
+         "tags" : [ "reading", "basketball", "dancing", "singing", "guitar", "football" ]
+      },
+      {
+         "available_dep" : [ "D017" ],
+         "available_schedules" : [ "Thurs.10:00-12:00", "Wed.20:00-22:00", "Wed.18:00-20:00" ],
+         "gpa" : 7.7000000000000002,
+         "student_no" : "S0013",
+         "tags" : [ "dancing", "singing", "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D014", "D012", "D013", "D007", "D012" ],
+         "available_schedules" : [
+            "Sun.15:00-17:00",
+            "Mon.20:00-22:00",
+            "Sat.13:00-15:00",
+            "Thurs.20:00-22:00",
+            "Thurs.20:00-22:00"
+         ],
+         "gpa" : 1.3,
+         "student_no" : "S0014",
+         "tags" : [ "singing", "guitar", "football", "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D012", "D018", "D016", "D018", "D009" ],
+         "available_schedules" : [ "Thurs.18:00-20:00", "Wed.18:00-20:00", "Sat.13:00-15:00" ],
+         "gpa" : 9.5999999999999996,
+         "student_no" : "S0015",
+         "tags" : [ "dancing", "singing", "guitar", "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D000", "D016", "D004" ],
+         "available_schedules" : [ "Sun.20:00-22:00" ],
+         "gpa" : 0.20000000000000001,
+         "student_no" : "S0016",
+         "tags" : [
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D010", "D019", "D013" ],
+         "available_schedules" : [ "Fri.15:00-17:00", "Tues.15:00-17:00", "Sat.18:00-20:00" ],
+         "gpa" : 1.8,
+         "student_no" : "S0017",
+         "tags" : [ "dancing", "singing", "guitar", "football" ]
+      },
+      {
+         "available_dep" : [ "D016" ],
+         "available_schedules" : [ "Sun.10:00-12:00", "Sun.13:00-15:00", "Sat.10:00-12:00" ],
+         "gpa" : 4.9000000000000004,
+         "student_no" : "S0018",
+         "tags" : [ "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D008", "D002", "D011" ],
+         "available_schedules" : [ "Wed.10:00-12:00" ],
+         "gpa" : 6.5,
+         "student_no" : "S0019",
+         "tags" : [
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film"
+         ]
+      },
+      {
+         "available_dep" : [ "D013", "D004", "D006", "D004", "D006" ],
+         "available_schedules" : [
+            "Wed.20:00-22:00",
+            "Sat.20:00-22:00",
+            "Sun.13:00-15:00",
+            "Sun.18:00-20:00"
+         ],
+         "gpa" : 7.4000000000000004,
+         "student_no" : "S0020",
+         "tags" : [ "basketball" ]
+      },
+      {
+         "available_dep" : [ "D015", "D006" ],
+         "available_schedules" : [
+            "Sat.20:00-22:00",
+            "Sun.13:00-15:00",
+            "Mon.13:00-15:00",
+            "Sun.10:00-12:00"
+         ],
+         "gpa" : 0.90000000000000002,
+         "student_no" : "S0021",
+         "tags" : [ "film", "painting" ]
+      },
+      {
+         "available_dep" : [ "D003", "D017", "D017" ],
+         "available_schedules" : [ "Sun.15:00-17:00" ],
+         "gpa" : 9.5,
+         "student_no" : "S0022",
+         "tags" : [ "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D010", "D008", "D006", "D016" ],
+         "available_schedules" : [
+            "Fri.18:00-20:00",
+            "Thurs.13:00-15:00",
+            "Thurs.15:00-17:00",
+            "Tues.13:00-15:00"
+         ],
+         "gpa" : 4.9000000000000004,
+         "student_no" : "S0023",
+         "tags" : [ "guitar", "football" ]
+      },
+      {
+         "available_dep" : [ "D017", "D002", "D001" ],
+         "available_schedules" : [ "Thurs.13:00-15:00", "Sat.13:00-15:00" ],
+         "gpa" : 8.4000000000000004,
+         "student_no" : "S0024",
+         "tags" : [
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D007" ],
+         "available_schedules" : [ "Tues.10:00-12:00", "Thurs.20:00-22:00" ],
+         "gpa" : 3.3999999999999999,
+         "student_no" : "S0025",
+         "tags" : [
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D001" ],
+         "available_schedules" : [ "Sat.15:00-17:00" ],
+         "gpa" : 8.5999999999999996,
+         "student_no" : "S0026",
+         "tags" : [ "guitar" ]
+      },
+      {
+         "available_dep" : [ "D003", "D003" ],
+         "available_schedules" : [ "Wed.13:00-15:00", "Tues.10:00-12:00" ],
+         "gpa" : 1.1000000000000001,
+         "student_no" : "S0027",
+         "tags" : [ "reading", "basketball", "dancing", "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D013", "D010", "D001", "D008", "D000" ],
+         "available_schedules" : [ "Tues.15:00-17:00" ],
+         "gpa" : 0.5,
+         "student_no" : "S0028",
+         "tags" : [
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing"
+         ]
+      },
+      {
+         "available_dep" : [ "D002", "D017", "D016", "D002" ],
+         "available_schedules" : [ "Tues.20:00-22:00" ],
+         "gpa" : 4.7999999999999998,
+         "student_no" : "S0029",
+         "tags" : [ "painting", "reading", "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D008" ],
+         "available_schedules" : [ "Thurs.15:00-17:00" ],
+         "gpa" : 1.6000000000000001,
+         "student_no" : "S0030",
+         "tags" : [ "runing", "writing", "reading", "film" ]
+      },
+      {
+         "available_dep" : [ "D007" ],
+         "available_schedules" : [ "Mon.15:00-17:00", "Mon.20:00-22:00", "Mon.10:00-12:00" ],
+         "gpa" : 6.7000000000000002,
+         "student_no" : "S0031",
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D009", "D012", "D004", "D008", "D010" ],
+         "available_schedules" : [ "Fri.20:00-22:00", "Sat.13:00-15:00", "Thurs.18:00-20:00" ],
+         "gpa" : 7.0999999999999996,
+         "student_no" : "S0032",
+         "tags" : [ "runing", "writing", "reading", "film", "painting" ]
+      },
+      {
+         "available_dep" : [ "D006", "D012" ],
+         "available_schedules" : [
+            "Tues.20:00-22:00",
+            "Tues.10:00-12:00",
+            "Sat.15:00-17:00",
+            "Tues.20:00-22:00"
+         ],
+         "gpa" : 0.80000000000000004,
+         "student_no" : "S0033",
+         "tags" : [ "reading" ]
+      },
+      {
+         "available_dep" : [ "D000", "D000", "D019" ],
+         "available_schedules" : [
+            "Fri.18:00-20:00",
+            "Tues.10:00-12:00",
+            "Mon.18:00-20:00",
+            "Tues.13:00-15:00"
+         ],
+         "gpa" : 9.6999999999999993,
+         "student_no" : "S0034",
+         "tags" : [ "guitar", "football", "runing", "writing", "reading", "film" ]
+      },
+      {
+         "available_dep" : [ "D000", "D000", "D011", "D018" ],
+         "available_schedules" : [
+            "Mon.15:00-17:00",
+            "Sat.18:00-20:00",
+            "Thurs.10:00-12:00",
+            "Fri.18:00-20:00",
+            "Thurs.18:00-20:00"
+         ],
+         "gpa" : 3.3999999999999999,
+         "student_no" : "S0035",
+         "tags" : [ "basketball", "dancing", "singing", "guitar", "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D010", "D002", "D014", "D017" ],
+         "available_schedules" : [
+            "Sat.18:00-20:00",
+            "Fri.20:00-22:00",
+            "Sat.18:00-20:00",
+            "Thurs.15:00-17:00"
+         ],
+         "gpa" : 3.0,
+         "student_no" : "S0036",
+         "tags" : [ "reading", "film", "painting", "reading", "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D001", "D009", "D004", "D014" ],
+         "available_schedules" : [ "Wed.13:00-15:00", "Sat.15:00-17:00", "Fri.18:00-20:00" ],
+         "gpa" : 1.8,
+         "student_no" : "S0037",
+         "tags" : [ "reading", "film", "painting", "reading" ]
+      },
+      {
+         "available_dep" : [ "D009", "D012", "D019", "D008" ],
+         "available_schedules" : [
+            "Sun.13:00-15:00",
+            "Tues.20:00-22:00",
+            "Tues.15:00-17:00",
+            "Thurs.15:00-17:00"
+         ],
+         "gpa" : 9.5999999999999996,
+         "student_no" : "S0038",
+         "tags" : [ "guitar", "football", "runing", "writing", "reading", "film" ]
+      },
+      {
+         "available_dep" : [ "D013", "D000", "D006", "D002" ],
+         "available_schedules" : [ "Fri.10:00-12:00", "Tues.20:00-22:00" ],
+         "gpa" : 5.4000000000000004,
+         "student_no" : "S0039",
+         "tags" : [
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film"
+         ]
+      },
+      {
+         "available_dep" : [ "D016", "D003", "D016", "D014" ],
+         "available_schedules" : [ "Wed.20:00-22:00", "Wed.15:00-17:00", "Wed.18:00-20:00" ],
+         "gpa" : 3.8999999999999999,
+         "student_no" : "S0040",
+         "tags" : [
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D002", "D006" ],
+         "available_schedules" : [ "Mon.10:00-12:00" ],
+         "gpa" : 4.4000000000000004,
+         "student_no" : "S0041",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D014", "D014" ],
+         "available_schedules" : [ "Sun.18:00-20:00" ],
+         "gpa" : 6.2000000000000002,
+         "student_no" : "S0042",
+         "tags" : [ "basketball", "dancing", "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D009", "D019", "D015", "D019" ],
+         "available_schedules" : [ "Fri.10:00-12:00" ],
+         "gpa" : 7.5999999999999996,
+         "student_no" : "S0043",
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar"
+         ]
+      },
+      {
+         "available_dep" : [ "D005", "D018" ],
+         "available_schedules" : [
+            "Tues.18:00-20:00",
+            "Mon.20:00-22:00",
+            "Sat.18:00-20:00",
+            "Fri.10:00-12:00",
+            "Sun.15:00-17:00"
+         ],
+         "gpa" : 8.8000000000000007,
+         "student_no" : "S0044",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D016", "D000", "D012", "D013", "D012" ],
+         "available_schedules" : [ "Wed.13:00-15:00", "Mon.10:00-12:00", "Thurs.20:00-22:00" ],
+         "gpa" : 5.0,
+         "student_no" : "S0045",
+         "tags" : [ "dancing", "singing", "guitar", "football" ]
+      },
+      {
+         "available_dep" : [ "D019", "D015", "D016", "D013", "D002" ],
+         "available_schedules" : [
+            "Wed.18:00-20:00",
+            "Sun.10:00-12:00",
+            "Thurs.20:00-22:00",
+            "Tues.20:00-22:00",
+            "Wed.13:00-15:00"
+         ],
+         "gpa" : 7.0,
+         "student_no" : "S0046",
+         "tags" : [ "dancing", "singing", "guitar", "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D017", "D004", "D010", "D007", "D011" ],
+         "available_schedules" : [ "Sun.20:00-22:00", "Fri.13:00-15:00", "Tues.18:00-20:00" ],
+         "gpa" : 2.7999999999999998,
+         "student_no" : "S0047",
+         "tags" : [ "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D005", "D005" ],
+         "available_schedules" : [ "Tues.15:00-17:00" ],
+         "gpa" : 5.0999999999999996,
+         "student_no" : "S0048",
+         "tags" : [
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D015", "D019", "D016", "D006" ],
+         "available_schedules" : [ "Sat.13:00-15:00", "Fri.13:00-15:00", "Wed.18:00-20:00" ],
+         "gpa" : 4.0999999999999996,
+         "student_no" : "S0049",
+         "tags" : [ "football", "runing", "writing", "reading", "film" ]
+      },
+      {
+         "available_dep" : [ "D012", "D015" ],
+         "available_schedules" : [ "Wed.15:00-17:00" ],
+         "gpa" : 1.6000000000000001,
+         "student_no" : "S0050",
+         "tags" : [ "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D003" ],
+         "available_schedules" : [ "Sat.13:00-15:00" ],
+         "gpa" : 4.7000000000000002,
+         "student_no" : "S0051",
+         "tags" : [ "guitar", "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D003", "D009" ],
+         "available_schedules" : [
+            "Thurs.13:00-15:00",
+            "Mon.10:00-12:00",
+            "Thurs.13:00-15:00",
+            "Thurs.15:00-17:00",
+            "Sun.15:00-17:00"
+         ],
+         "gpa" : 0.20000000000000001,
+         "student_no" : "S0052",
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D001", "D001", "D009", "D009", "D002" ],
+         "available_schedules" : [
+            "Mon.15:00-17:00",
+            "Tues.15:00-17:00",
+            "Wed.10:00-12:00",
+            "Tues.20:00-22:00"
+         ],
+         "gpa" : 1.6000000000000001,
+         "student_no" : "S0053",
+         "tags" : [ "runing" ]
+      },
+      {
+         "available_dep" : [ "D009" ],
+         "available_schedules" : [
+            "Sun.15:00-17:00",
+            "Sun.13:00-15:00",
+            "Wed.20:00-22:00",
+            "Fri.10:00-12:00"
+         ],
+         "gpa" : 0.10000000000000001,
+         "student_no" : "S0054",
+         "tags" : [
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting"
+         ]
+      },
+      {
+         "available_dep" : [ "D000", "D018" ],
+         "available_schedules" : [ "Sat.15:00-17:00" ],
+         "gpa" : 3.0,
+         "student_no" : "S0055",
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar"
+         ]
+      },
+      {
+         "available_dep" : [ "D012" ],
+         "available_schedules" : [
+            "Wed.13:00-15:00",
+            "Tues.20:00-22:00",
+            "Mon.10:00-12:00",
+            "Sat.10:00-12:00",
+            "Wed.15:00-17:00"
+         ],
+         "gpa" : 5.7999999999999998,
+         "student_no" : "S0056",
+         "tags" : [ "painting", "reading", "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D015", "D007", "D014", "D000" ],
+         "available_schedules" : [ "Tues.20:00-22:00", "Sun.13:00-15:00", "Wed.15:00-17:00" ],
+         "gpa" : 9.6999999999999993,
+         "student_no" : "S0057",
+         "tags" : [ "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D006", "D009", "D019" ],
+         "available_schedules" : [
+            "Mon.15:00-17:00",
+            "Sat.18:00-20:00",
+            "Mon.18:00-20:00",
+            "Fri.15:00-17:00"
+         ],
+         "gpa" : 7.7000000000000002,
+         "student_no" : "S0058",
+         "tags" : [ "guitar", "football", "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D008" ],
+         "available_schedules" : [
+            "Sat.13:00-15:00",
+            "Wed.20:00-22:00",
+            "Mon.18:00-20:00",
+            "Mon.18:00-20:00"
+         ],
+         "gpa" : 9.9000000000000004,
+         "student_no" : "S0059",
+         "tags" : [ "reading", "basketball", "dancing", "singing", "guitar", "football" ]
+      },
+      {
+         "available_dep" : [ "D009", "D000", "D016", "D012", "D009" ],
+         "available_schedules" : [ "Thurs.10:00-12:00", "Tues.18:00-20:00" ],
+         "gpa" : 9.5999999999999996,
+         "student_no" : "S0060",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D008" ],
+         "available_schedules" : [
+            "Wed.15:00-17:00",
+            "Fri.15:00-17:00",
+            "Mon.10:00-12:00",
+            "Sun.13:00-15:00",
+            "Thurs.15:00-17:00"
+         ],
+         "gpa" : 3.6000000000000001,
+         "student_no" : "S0061",
+         "tags" : [ "basketball" ]
+      },
+      {
+         "available_dep" : [ "D002", "D014", "D018", "D011" ],
+         "available_schedules" : [ "Tues.18:00-20:00", "Thurs.15:00-17:00" ],
+         "gpa" : 8.3000000000000007,
+         "student_no" : "S0062",
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D005", "D015", "D000", "D009" ],
+         "available_schedules" : [ "Mon.10:00-12:00" ],
+         "gpa" : 6.0,
+         "student_no" : "S0063",
+         "tags" : [ "reading", "film", "painting", "reading", "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D002", "D018" ],
+         "available_schedules" : [
+            "Mon.13:00-15:00",
+            "Wed.13:00-15:00",
+            "Fri.18:00-20:00",
+            "Sun.20:00-22:00"
+         ],
+         "gpa" : 9.9000000000000004,
+         "student_no" : "S0064",
+         "tags" : [ "runing" ]
+      },
+      {
+         "available_dep" : [ "D004", "D001", "D018" ],
+         "available_schedules" : [
+            "Sun.15:00-17:00",
+            "Wed.18:00-20:00",
+            "Mon.15:00-17:00",
+            "Wed.13:00-15:00"
+         ],
+         "gpa" : 7.4000000000000004,
+         "student_no" : "S0065",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D010", "D003" ],
+         "available_schedules" : [ "Mon.18:00-20:00", "Fri.13:00-15:00" ],
+         "gpa" : 0.80000000000000004,
+         "student_no" : "S0066",
+         "tags" : [ "guitar", "football", "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D012" ],
+         "available_schedules" : [ "Wed.20:00-22:00", "Thurs.18:00-20:00" ],
+         "gpa" : 1.8999999999999999,
+         "student_no" : "S0067",
+         "tags" : [ "painting", "reading", "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D002", "D007", "D003", "D015", "D009" ],
+         "available_schedules" : [
+            "Fri.10:00-12:00",
+            "Wed.15:00-17:00",
+            "Mon.13:00-15:00",
+            "Mon.13:00-15:00",
+            "Thurs.10:00-12:00"
+         ],
+         "gpa" : 5.2000000000000002,
+         "student_no" : "S0068",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing"
+         ]
+      },
+      {
+         "available_dep" : [ "D002", "D014", "D005" ],
+         "available_schedules" : [ "Sat.10:00-12:00" ],
+         "gpa" : 8.0,
+         "student_no" : "S0069",
+         "tags" : [
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D003", "D011", "D019", "D007", "D019" ],
+         "available_schedules" : [ "Sat.15:00-17:00" ],
+         "gpa" : 3.7000000000000002,
+         "student_no" : "S0070",
+         "tags" : [
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film"
+         ]
+      },
+      {
+         "available_dep" : [ "D005" ],
+         "available_schedules" : [ "Sun.10:00-12:00" ],
+         "gpa" : 7.2000000000000002,
+         "student_no" : "S0071",
+         "tags" : [ "writing", "reading", "film" ]
+      },
+      {
+         "available_dep" : [ "D001", "D014" ],
+         "available_schedules" : [
+            "Thurs.15:00-17:00",
+            "Tues.13:00-15:00",
+            "Sun.15:00-17:00",
+            "Thurs.15:00-17:00"
+         ],
+         "gpa" : 0.10000000000000001,
+         "student_no" : "S0072",
+         "tags" : [ "reading", "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D015", "D001", "D001", "D010" ],
+         "available_schedules" : [
+            "Fri.10:00-12:00",
+            "Sun.10:00-12:00",
+            "Wed.20:00-22:00",
+            "Wed.13:00-15:00"
+         ],
+         "gpa" : 2.2999999999999998,
+         "student_no" : "S0073",
+         "tags" : [
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing"
+         ]
+      },
+      {
+         "available_dep" : [ "D016", "D019" ],
+         "available_schedules" : [ "Sat.18:00-20:00" ],
+         "gpa" : 9.4000000000000004,
+         "student_no" : "S0074",
+         "tags" : [ "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D003" ],
+         "available_schedules" : [ "Mon.20:00-22:00", "Sun.15:00-17:00", "Tues.15:00-17:00" ],
+         "gpa" : 6.9000000000000004,
+         "student_no" : "S0075",
+         "tags" : [
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball"
+         ]
+      },
+      {
+         "available_dep" : [ "D017", "D002", "D002", "D010", "D006" ],
+         "available_schedules" : [ "Tues.15:00-17:00" ],
+         "gpa" : 2.3999999999999999,
+         "student_no" : "S0076",
+         "tags" : [
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D013", "D002", "D007", "D014", "D014" ],
+         "available_schedules" : [
+            "Tues.13:00-15:00",
+            "Fri.13:00-15:00",
+            "Fri.13:00-15:00",
+            "Fri.15:00-17:00"
+         ],
+         "gpa" : 8.0999999999999996,
+         "student_no" : "S0077",
+         "tags" : [ "reading", "film", "painting", "reading", "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D001", "D006", "D019" ],
+         "available_schedules" : [ "Thurs.18:00-20:00", "Sat.13:00-15:00" ],
+         "gpa" : 2.6000000000000001,
+         "student_no" : "S0078",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing"
+         ]
+      },
+      {
+         "available_dep" : [ "D006", "D000", "D013", "D006" ],
+         "available_schedules" : [ "Sun.20:00-22:00", "Thurs.13:00-15:00" ],
+         "gpa" : 7.5999999999999996,
+         "student_no" : "S0079",
+         "tags" : [
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film"
+         ]
+      },
+      {
+         "available_dep" : [ "D004" ],
+         "available_schedules" : [ "Tues.20:00-22:00", "Sun.20:00-22:00" ],
+         "gpa" : 2.3999999999999999,
+         "student_no" : "S0080",
+         "tags" : [ "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D017", "D007", "D011", "D010" ],
+         "available_schedules" : [
+            "Wed.20:00-22:00",
+            "Tues.20:00-22:00",
+            "Sat.18:00-20:00",
+            "Wed.13:00-15:00"
+         ],
+         "gpa" : 7.7000000000000002,
+         "student_no" : "S0081",
+         "tags" : [ "film", "painting", "reading" ]
+      },
+      {
+         "available_dep" : [ "D018", "D014", "D019", "D019" ],
+         "available_schedules" : [ "Tues.18:00-20:00", "Wed.20:00-22:00", "Sun.13:00-15:00" ],
+         "gpa" : 1.3,
+         "student_no" : "S0082",
+         "tags" : [ "reading", "film", "painting", "reading" ]
+      },
+      {
+         "available_dep" : [ "D010", "D009", "D014", "D015", "D000" ],
+         "available_schedules" : [
+            "Mon.18:00-20:00",
+            "Sat.10:00-12:00",
+            "Sat.10:00-12:00",
+            "Wed.18:00-20:00",
+            "Thurs.15:00-17:00"
+         ],
+         "gpa" : 2.5,
+         "student_no" : "S0083",
+         "tags" : [ "reading", "basketball", "dancing", "singing" ]
+      },
+      {
+         "available_dep" : [ "D017", "D009", "D007" ],
+         "available_schedules" : [
+            "Sun.20:00-22:00",
+            "Sun.20:00-22:00",
+            "Tues.15:00-17:00",
+            "Sun.20:00-22:00",
+            "Mon.20:00-22:00"
+         ],
+         "gpa" : 1.8,
+         "student_no" : "S0084",
+         "tags" : [ "singing", "guitar", "football", "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D013", "D016", "D001", "D002" ],
+         "available_schedules" : [
+            "Tues.20:00-22:00",
+            "Fri.20:00-22:00",
+            "Sun.10:00-12:00",
+            "Fri.13:00-15:00",
+            "Fri.18:00-20:00"
+         ],
+         "gpa" : 9.3000000000000007,
+         "student_no" : "S0085",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D000", "D009", "D005", "D000" ],
+         "available_schedules" : [
+            "Thurs.18:00-20:00",
+            "Sat.13:00-15:00",
+            "Mon.13:00-15:00",
+            "Sat.13:00-15:00",
+            "Sat.15:00-17:00"
+         ],
+         "gpa" : 7.5999999999999996,
+         "student_no" : "S0086",
+         "tags" : [ "runing", "writing", "reading", "film", "painting", "reading" ]
+      },
+      {
+         "available_dep" : [ "D007" ],
+         "available_schedules" : [
+            "Sat.10:00-12:00",
+            "Sat.20:00-22:00",
+            "Mon.20:00-22:00",
+            "Wed.10:00-12:00",
+            "Sat.18:00-20:00"
+         ],
+         "gpa" : 6.5999999999999996,
+         "student_no" : "S0087",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D002", "D016", "D011" ],
+         "available_schedules" : [ "Mon.13:00-15:00", "Sat.20:00-22:00" ],
+         "gpa" : 0.80000000000000004,
+         "student_no" : "S0088",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D017", "D007" ],
+         "available_schedules" : [ "Wed.20:00-22:00", "Tues.10:00-12:00" ],
+         "gpa" : 2.6000000000000001,
+         "student_no" : "S0089",
+         "tags" : [
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing"
+         ]
+      },
+      {
+         "available_dep" : [ "D007" ],
+         "available_schedules" : [ "Sun.10:00-12:00" ],
+         "gpa" : 0.20000000000000001,
+         "student_no" : "S0090",
+         "tags" : [ "dancing", "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D009", "D008", "D013", "D017", "D008" ],
+         "available_schedules" : [
+            "Wed.20:00-22:00",
+            "Fri.18:00-20:00",
+            "Fri.13:00-15:00",
+            "Wed.15:00-17:00",
+            "Mon.18:00-20:00"
+         ],
+         "gpa" : 5.7999999999999998,
+         "student_no" : "S0091",
+         "tags" : [
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting"
+         ]
+      },
+      {
+         "available_dep" : [ "D014", "D005", "D001", "D013" ],
+         "available_schedules" : [ "Sat.10:00-12:00" ],
+         "gpa" : 1.5,
+         "student_no" : "S0092",
+         "tags" : [ "reading" ]
+      },
+      {
+         "available_dep" : [ "D016", "D005", "D001", "D006" ],
+         "available_schedules" : [ "Thurs.20:00-22:00", "Tues.10:00-12:00", "Fri.20:00-22:00" ],
+         "gpa" : 5.2999999999999998,
+         "student_no" : "S0093",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D018" ],
+         "available_schedules" : [
+            "Sun.13:00-15:00",
+            "Thurs.13:00-15:00",
+            "Sun.20:00-22:00",
+            "Tues.18:00-20:00"
+         ],
+         "gpa" : 6.4000000000000004,
+         "student_no" : "S0094",
+         "tags" : [ "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D019", "D007", "D013", "D003", "D010" ],
+         "available_schedules" : [ "Tues.13:00-15:00", "Tues.18:00-20:00", "Tues.10:00-12:00" ],
+         "gpa" : 2.2000000000000002,
+         "student_no" : "S0095",
+         "tags" : [
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D008" ],
+         "available_schedules" : [ "Mon.13:00-15:00", "Sat.10:00-12:00" ],
+         "gpa" : 3.7000000000000002,
+         "student_no" : "S0096",
+         "tags" : [
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D006" ],
+         "available_schedules" : [ "Fri.18:00-20:00" ],
+         "gpa" : 6.9000000000000004,
+         "student_no" : "S0097",
+         "tags" : [
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D016", "D001", "D010" ],
+         "available_schedules" : [ "Tues.20:00-22:00", "Mon.13:00-15:00", "Fri.10:00-12:00" ],
+         "gpa" : 3.7000000000000002,
+         "student_no" : "S0098",
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball"
+         ]
+      },
+      {
+         "available_dep" : [ "D008", "D005", "D004", "D004", "D001" ],
+         "available_schedules" : [
+            "Tues.13:00-15:00",
+            "Fri.10:00-12:00",
+            "Wed.15:00-17:00",
+            "Wed.20:00-22:00"
+         ],
+         "gpa" : 0.59999999999999998,
+         "student_no" : "S0099",
+         "tags" : [ "reading", "basketball", "dancing", "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D013", "D015" ],
+         "available_schedules" : [
+            "Tues.10:00-12:00",
+            "Tues.10:00-12:00",
+            "Fri.18:00-20:00",
+            "Tues.10:00-12:00"
+         ],
+         "gpa" : 8.4000000000000004,
+         "student_no" : "S0100",
+         "tags" : [ "basketball", "dancing", "singing" ]
+      },
+      {
+         "available_dep" : [ "D019", "D015" ],
+         "available_schedules" : [ "Tues.20:00-22:00", "Mon.18:00-20:00", "Tues.18:00-20:00" ],
+         "gpa" : 1.1000000000000001,
+         "student_no" : "S0101",
+         "tags" : [ "reading", "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D006", "D002", "D006", "D002", "D010" ],
+         "available_schedules" : [
+            "Mon.18:00-20:00",
+            "Wed.10:00-12:00",
+            "Fri.15:00-17:00",
+            "Sat.13:00-15:00"
+         ],
+         "gpa" : 6.7000000000000002,
+         "student_no" : "S0102",
+         "tags" : [
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D016", "D012", "D017", "D017", "D018" ],
+         "available_schedules" : [
+            "Fri.10:00-12:00",
+            "Sat.20:00-22:00",
+            "Tues.15:00-17:00",
+            "Tues.15:00-17:00",
+            "Sun.15:00-17:00"
+         ],
+         "gpa" : 9.8000000000000007,
+         "student_no" : "S0103",
+         "tags" : [ "basketball", "dancing", "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D007", "D004", "D003" ],
+         "available_schedules" : [
+            "Wed.13:00-15:00",
+            "Wed.20:00-22:00",
+            "Fri.13:00-15:00",
+            "Tues.20:00-22:00",
+            "Sun.13:00-15:00"
+         ],
+         "gpa" : 1.0,
+         "student_no" : "S0104",
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar"
+         ]
+      },
+      {
+         "available_dep" : [ "D016" ],
+         "available_schedules" : [ "Sun.15:00-17:00" ],
+         "gpa" : 5.2999999999999998,
+         "student_no" : "S0105",
+         "tags" : [ "film", "painting" ]
+      },
+      {
+         "available_dep" : [ "D016", "D006", "D013", "D015" ],
+         "available_schedules" : [
+            "Mon.10:00-12:00",
+            "Mon.18:00-20:00",
+            "Tues.13:00-15:00",
+            "Mon.15:00-17:00",
+            "Thurs.18:00-20:00"
+         ],
+         "gpa" : 2.2000000000000002,
+         "student_no" : "S0106",
+         "tags" : [
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting"
+         ]
+      },
+      {
+         "available_dep" : [ "D013", "D014", "D013", "D012", "D018" ],
+         "available_schedules" : [ "Tues.13:00-15:00", "Fri.15:00-17:00" ],
+         "gpa" : 5.0999999999999996,
+         "student_no" : "S0107",
+         "tags" : [
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D009" ],
+         "available_schedules" : [ "Fri.13:00-15:00", "Tues.18:00-20:00" ],
+         "gpa" : 7.7000000000000002,
+         "student_no" : "S0108",
+         "tags" : [ "painting", "reading" ]
+      },
+      {
+         "available_dep" : [ "D013" ],
+         "available_schedules" : [
+            "Sun.20:00-22:00",
+            "Sun.15:00-17:00",
+            "Wed.18:00-20:00",
+            "Mon.20:00-22:00",
+            "Fri.18:00-20:00"
+         ],
+         "gpa" : 8.8000000000000007,
+         "student_no" : "S0109",
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D003", "D017", "D014", "D014" ],
+         "available_schedules" : [ "Thurs.15:00-17:00" ],
+         "gpa" : 4.7000000000000002,
+         "student_no" : "S0110",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D012" ],
+         "available_schedules" : [ "Sat.20:00-22:00", "Thurs.18:00-20:00", "Mon.13:00-15:00" ],
+         "gpa" : 0.29999999999999999,
+         "student_no" : "S0111",
+         "tags" : [ "guitar", "football", "runing", "writing", "reading", "film" ]
+      },
+      {
+         "available_dep" : [ "D010" ],
+         "available_schedules" : [ "Sat.10:00-12:00" ],
+         "gpa" : 0.80000000000000004,
+         "student_no" : "S0112",
+         "tags" : [
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D018" ],
+         "available_schedules" : [
+            "Mon.20:00-22:00",
+            "Fri.10:00-12:00",
+            "Wed.18:00-20:00",
+            "Tues.15:00-17:00"
+         ],
+         "gpa" : 7.2999999999999998,
+         "student_no" : "S0113",
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D006", "D016" ],
+         "available_schedules" : [
+            "Wed.13:00-15:00",
+            "Sun.13:00-15:00",
+            "Sat.18:00-20:00",
+            "Wed.15:00-17:00",
+            "Mon.10:00-12:00"
+         ],
+         "gpa" : 8.0999999999999996,
+         "student_no" : "S0114",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar"
+         ]
+      },
+      {
+         "available_dep" : [ "D003", "D004", "D012" ],
+         "available_schedules" : [
+            "Sat.13:00-15:00",
+            "Fri.10:00-12:00",
+            "Wed.13:00-15:00",
+            "Sun.18:00-20:00",
+            "Mon.20:00-22:00"
+         ],
+         "gpa" : 1.0,
+         "student_no" : "S0115",
+         "tags" : [ "guitar" ]
+      },
+      {
+         "available_dep" : [ "D007" ],
+         "available_schedules" : [ "Mon.18:00-20:00", "Sat.13:00-15:00", "Thurs.10:00-12:00" ],
+         "gpa" : 8.3000000000000007,
+         "student_no" : "S0116",
+         "tags" : [
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D015", "D009" ],
+         "available_schedules" : [ "Sat.10:00-12:00" ],
+         "gpa" : 8.1999999999999993,
+         "student_no" : "S0117",
+         "tags" : [ "guitar", "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D004", "D017", "D012", "D019" ],
+         "available_schedules" : [
+            "Thurs.15:00-17:00",
+            "Sat.10:00-12:00",
+            "Fri.20:00-22:00",
+            "Sun.18:00-20:00"
+         ],
+         "gpa" : 0.10000000000000001,
+         "student_no" : "S0118",
+         "tags" : [
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D016", "D005" ],
+         "available_schedules" : [ "Thurs.15:00-17:00" ],
+         "gpa" : 2.0,
+         "student_no" : "S0119",
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D011", "D016" ],
+         "available_schedules" : [ "Wed.18:00-20:00" ],
+         "gpa" : 9.0999999999999996,
+         "student_no" : "S0120",
+         "tags" : [ "basketball", "dancing", "singing", "guitar", "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D012", "D004", "D007" ],
+         "available_schedules" : [ "Thurs.18:00-20:00" ],
+         "gpa" : 6.7000000000000002,
+         "student_no" : "S0121",
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing"
+         ]
+      },
+      {
+         "available_dep" : [ "D001", "D017" ],
+         "available_schedules" : [ "Mon.18:00-20:00", "Sun.20:00-22:00" ],
+         "gpa" : 2.7999999999999998,
+         "student_no" : "S0122",
+         "tags" : [ "reading", "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D012", "D006", "D017", "D000" ],
+         "available_schedules" : [
+            "Wed.13:00-15:00",
+            "Tues.13:00-15:00",
+            "Mon.20:00-22:00",
+            "Mon.13:00-15:00",
+            "Fri.10:00-12:00"
+         ],
+         "gpa" : 3.2999999999999998,
+         "student_no" : "S0123",
+         "tags" : [ "reading", "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D015", "D005", "D007" ],
+         "available_schedules" : [
+            "Mon.13:00-15:00",
+            "Tues.18:00-20:00",
+            "Mon.20:00-22:00",
+            "Wed.15:00-17:00"
+         ],
+         "gpa" : 8.6999999999999993,
+         "student_no" : "S0124",
+         "tags" : [ "reading", "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D016", "D009", "D004", "D017", "D015" ],
+         "available_schedules" : [
+            "Thurs.20:00-22:00",
+            "Tues.20:00-22:00",
+            "Sun.18:00-20:00",
+            "Tues.13:00-15:00"
+         ],
+         "gpa" : 2.2000000000000002,
+         "student_no" : "S0125",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D010", "D014", "D019", "D007" ],
+         "available_schedules" : [ "Wed.13:00-15:00" ],
+         "gpa" : 6.2000000000000002,
+         "student_no" : "S0126",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar"
+         ]
+      },
+      {
+         "available_dep" : [ "D015", "D012", "D005", "D014" ],
+         "available_schedules" : [
+            "Wed.18:00-20:00",
+            "Fri.20:00-22:00",
+            "Sat.15:00-17:00",
+            "Tues.10:00-12:00",
+            "Wed.10:00-12:00"
+         ],
+         "gpa" : 0.0,
+         "student_no" : "S0127",
+         "tags" : [
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting"
+         ]
+      },
+      {
+         "available_dep" : [ "D019", "D007", "D011", "D000" ],
+         "available_schedules" : [ "Thurs.10:00-12:00", "Sun.13:00-15:00", "Fri.10:00-12:00" ],
+         "gpa" : 4.7999999999999998,
+         "student_no" : "S0128",
+         "tags" : [ "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D005", "D003" ],
+         "available_schedules" : [ "Sat.20:00-22:00", "Sun.18:00-20:00", "Mon.18:00-20:00" ],
+         "gpa" : 5.9000000000000004,
+         "student_no" : "S0129",
+         "tags" : [ "reading", "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D019", "D000", "D001", "D012", "D002" ],
+         "available_schedules" : [ "Tues.10:00-12:00" ],
+         "gpa" : 1.5,
+         "student_no" : "S0130",
+         "tags" : [ "guitar" ]
+      },
+      {
+         "available_dep" : [ "D003", "D005", "D016", "D009", "D016" ],
+         "available_schedules" : [ "Mon.13:00-15:00", "Mon.10:00-12:00" ],
+         "gpa" : 2.0,
+         "student_no" : "S0131",
+         "tags" : [ "dancing", "singing" ]
+      },
+      {
+         "available_dep" : [ "D016" ],
+         "available_schedules" : [ "Mon.13:00-15:00", "Sun.13:00-15:00" ],
+         "gpa" : 8.4000000000000004,
+         "student_no" : "S0132",
+         "tags" : [ "painting", "reading", "basketball", "dancing", "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D013" ],
+         "available_schedules" : [ "Sat.10:00-12:00", "Mon.18:00-20:00" ],
+         "gpa" : 5.5999999999999996,
+         "student_no" : "S0133",
+         "tags" : [
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D015" ],
+         "available_schedules" : [
+            "Sat.10:00-12:00",
+            "Tues.13:00-15:00",
+            "Thurs.15:00-17:00",
+            "Sat.15:00-17:00",
+            "Wed.13:00-15:00"
+         ],
+         "gpa" : 5.5,
+         "student_no" : "S0134",
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar"
+         ]
+      },
+      {
+         "available_dep" : [ "D002", "D005", "D005" ],
+         "available_schedules" : [ "Wed.13:00-15:00", "Thurs.20:00-22:00", "Mon.10:00-12:00" ],
+         "gpa" : 3.5,
+         "student_no" : "S0135",
+         "tags" : [ "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D002", "D003", "D012", "D019", "D010" ],
+         "available_schedules" : [ "Thurs.20:00-22:00", "Tues.15:00-17:00", "Wed.20:00-22:00" ],
+         "gpa" : 4.2999999999999998,
+         "student_no" : "S0136",
+         "tags" : [
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball"
+         ]
+      },
+      {
+         "available_dep" : [ "D015" ],
+         "available_schedules" : [
+            "Sun.20:00-22:00",
+            "Mon.10:00-12:00",
+            "Sat.20:00-22:00",
+            "Thurs.18:00-20:00"
+         ],
+         "gpa" : 8.5,
+         "student_no" : "S0137",
+         "tags" : [ "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D018", "D015", "D014" ],
+         "available_schedules" : [
+            "Mon.20:00-22:00",
+            "Wed.18:00-20:00",
+            "Wed.20:00-22:00",
+            "Thurs.18:00-20:00",
+            "Mon.10:00-12:00"
+         ],
+         "gpa" : 7.7999999999999998,
+         "student_no" : "S0138",
+         "tags" : [ "film", "painting", "reading", "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D003", "D010", "D007" ],
+         "available_schedules" : [ "Thurs.18:00-20:00", "Mon.15:00-17:00" ],
+         "gpa" : 4.0999999999999996,
+         "student_no" : "S0139",
+         "tags" : [
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D011", "D015", "D016" ],
+         "available_schedules" : [ "Sun.18:00-20:00", "Wed.20:00-22:00", "Fri.10:00-12:00" ],
+         "gpa" : 8.4000000000000004,
+         "student_no" : "S0140",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D002", "D010", "D001", "D014" ],
+         "available_schedules" : [
+            "Thurs.10:00-12:00",
+            "Sun.20:00-22:00",
+            "Fri.18:00-20:00",
+            "Tues.13:00-15:00"
+         ],
+         "gpa" : 5.0,
+         "student_no" : "S0141",
+         "tags" : [ "football", "runing", "writing", "reading", "film" ]
+      },
+      {
+         "available_dep" : [ "D000", "D005", "D011", "D016", "D007" ],
+         "available_schedules" : [
+            "Tues.13:00-15:00",
+            "Tues.18:00-20:00",
+            "Sat.10:00-12:00",
+            "Tues.15:00-17:00",
+            "Tues.15:00-17:00"
+         ],
+         "gpa" : 9.5,
+         "student_no" : "S0142",
+         "tags" : [ "guitar" ]
+      },
+      {
+         "available_dep" : [ "D007", "D010" ],
+         "available_schedules" : [
+            "Tues.10:00-12:00",
+            "Mon.20:00-22:00",
+            "Wed.18:00-20:00",
+            "Thurs.18:00-20:00"
+         ],
+         "gpa" : 7.2000000000000002,
+         "student_no" : "S0143",
+         "tags" : [ "reading", "basketball", "dancing" ]
+      },
+      {
+         "available_dep" : [ "D001", "D000", "D018", "D014" ],
+         "available_schedules" : [ "Wed.10:00-12:00", "Tues.18:00-20:00", "Mon.13:00-15:00" ],
+         "gpa" : 1.3,
+         "student_no" : "S0144",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar"
+         ]
+      },
+      {
+         "available_dep" : [ "D018", "D008" ],
+         "available_schedules" : [
+            "Tues.10:00-12:00",
+            "Sun.13:00-15:00",
+            "Sun.15:00-17:00",
+            "Fri.13:00-15:00",
+            "Tues.10:00-12:00"
+         ],
+         "gpa" : 6.0999999999999996,
+         "student_no" : "S0145",
+         "tags" : [ "singing", "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D001", "D002" ],
+         "available_schedules" : [
+            "Mon.13:00-15:00",
+            "Mon.20:00-22:00",
+            "Sun.13:00-15:00",
+            "Sun.10:00-12:00",
+            "Sat.18:00-20:00"
+         ],
+         "gpa" : 0.59999999999999998,
+         "student_no" : "S0146",
+         "tags" : [ "singing", "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D011", "D012" ],
+         "available_schedules" : [
+            "Sat.18:00-20:00",
+            "Tues.15:00-17:00",
+            "Wed.15:00-17:00",
+            "Tues.13:00-15:00"
+         ],
+         "gpa" : 4.0,
+         "student_no" : "S0147",
+         "tags" : [
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D017" ],
+         "available_schedules" : [ "Sat.13:00-15:00" ],
+         "gpa" : 7.5,
+         "student_no" : "S0148",
+         "tags" : [ "painting", "reading" ]
+      },
+      {
+         "available_dep" : [ "D013" ],
+         "available_schedules" : [
+            "Sat.10:00-12:00",
+            "Thurs.10:00-12:00",
+            "Mon.20:00-22:00",
+            "Mon.20:00-22:00"
+         ],
+         "gpa" : 3.1000000000000001,
+         "student_no" : "S0149",
+         "tags" : [ "basketball", "dancing", "singing" ]
+      },
+      {
+         "available_dep" : [ "D010", "D010" ],
+         "available_schedules" : [ "Tues.13:00-15:00" ],
+         "gpa" : 0.69999999999999996,
+         "student_no" : "S0150",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D014", "D016", "D002", "D000", "D015" ],
+         "available_schedules" : [ "Sun.10:00-12:00", "Fri.13:00-15:00", "Sun.20:00-22:00" ],
+         "gpa" : 8.9000000000000004,
+         "student_no" : "S0151",
+         "tags" : [ "writing", "reading", "film", "painting" ]
+      },
+      {
+         "available_dep" : [ "D010", "D000", "D016", "D003" ],
+         "available_schedules" : [
+            "Wed.13:00-15:00",
+            "Sat.18:00-20:00",
+            "Mon.20:00-22:00",
+            "Fri.20:00-22:00",
+            "Fri.15:00-17:00"
+         ],
+         "gpa" : 8.6999999999999993,
+         "student_no" : "S0152",
+         "tags" : [ "football", "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D010" ],
+         "available_schedules" : [ "Sat.10:00-12:00" ],
+         "gpa" : 7.0,
+         "student_no" : "S0153",
+         "tags" : [ "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D018", "D016", "D005", "D010" ],
+         "available_schedules" : [ "Wed.15:00-17:00" ],
+         "gpa" : 9.5999999999999996,
+         "student_no" : "S0154",
+         "tags" : [ "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D000" ],
+         "available_schedules" : [ "Thurs.15:00-17:00", "Fri.15:00-17:00" ],
+         "gpa" : 0.5,
+         "student_no" : "S0155",
+         "tags" : [ "reading", "film", "painting" ]
+      },
+      {
+         "available_dep" : [ "D004", "D001", "D004" ],
+         "available_schedules" : [
+            "Mon.20:00-22:00",
+            "Tues.15:00-17:00",
+            "Sat.20:00-22:00",
+            "Fri.18:00-20:00",
+            "Mon.10:00-12:00"
+         ],
+         "gpa" : 4.7000000000000002,
+         "student_no" : "S0156",
+         "tags" : [ "singing", "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D017", "D010", "D015", "D015", "D010" ],
+         "available_schedules" : [ "Sun.13:00-15:00" ],
+         "gpa" : 0.10000000000000001,
+         "student_no" : "S0157",
+         "tags" : [ "dancing", "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D014", "D018" ],
+         "available_schedules" : [
+            "Thurs.15:00-17:00",
+            "Sun.20:00-22:00",
+            "Thurs.18:00-20:00",
+            "Thurs.18:00-20:00",
+            "Tues.20:00-22:00"
+         ],
+         "gpa" : 4.2000000000000002,
+         "student_no" : "S0158",
+         "tags" : [ "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D018", "D012", "D006", "D014", "D012" ],
+         "available_schedules" : [ "Sun.10:00-12:00", "Thurs.10:00-12:00" ],
+         "gpa" : 2.1000000000000001,
+         "student_no" : "S0159",
+         "tags" : [ "painting" ]
+      },
+      {
+         "available_dep" : [ "D019", "D009", "D001" ],
+         "available_schedules" : [ "Sun.20:00-22:00", "Sat.10:00-12:00" ],
+         "gpa" : 3.0,
+         "student_no" : "S0160",
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar"
+         ]
+      },
+      {
+         "available_dep" : [ "D013", "D002", "D013", "D012", "D019" ],
+         "available_schedules" : [
+            "Sat.20:00-22:00",
+            "Thurs.20:00-22:00",
+            "Thurs.20:00-22:00",
+            "Wed.20:00-22:00",
+            "Wed.10:00-12:00"
+         ],
+         "gpa" : 2.0,
+         "student_no" : "S0161",
+         "tags" : [ "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D019", "D002", "D011", "D001", "D002" ],
+         "available_schedules" : [
+            "Wed.15:00-17:00",
+            "Fri.15:00-17:00",
+            "Sun.13:00-15:00",
+            "Sun.13:00-15:00",
+            "Sat.10:00-12:00"
+         ],
+         "gpa" : 6.2999999999999998,
+         "student_no" : "S0162",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D001", "D013", "D002", "D006", "D019" ],
+         "available_schedules" : [
+            "Sun.15:00-17:00",
+            "Thurs.18:00-20:00",
+            "Sat.18:00-20:00",
+            "Wed.13:00-15:00"
+         ],
+         "gpa" : 1.0,
+         "student_no" : "S0163",
+         "tags" : [
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing"
+         ]
+      },
+      {
+         "available_dep" : [ "D017", "D017", "D003", "D005", "D011" ],
+         "available_schedules" : [ "Sat.10:00-12:00" ],
+         "gpa" : 8.5999999999999996,
+         "student_no" : "S0164",
+         "tags" : [
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing"
+         ]
+      },
+      {
+         "available_dep" : [ "D003" ],
+         "available_schedules" : [
+            "Wed.20:00-22:00",
+            "Tues.13:00-15:00",
+            "Tues.15:00-17:00",
+            "Mon.13:00-15:00"
+         ],
+         "gpa" : 3.0,
+         "student_no" : "S0165",
+         "tags" : [
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing"
+         ]
+      },
+      {
+         "available_dep" : [ "D002", "D014", "D017", "D009" ],
+         "available_schedules" : [
+            "Fri.13:00-15:00",
+            "Sat.18:00-20:00",
+            "Tues.10:00-12:00",
+            "Sat.10:00-12:00"
+         ],
+         "gpa" : 2.7999999999999998,
+         "student_no" : "S0166",
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing"
+         ]
+      },
+      {
+         "available_dep" : [ "D006", "D006", "D010", "D017", "D007" ],
+         "available_schedules" : [
+            "Sun.10:00-12:00",
+            "Sat.10:00-12:00",
+            "Fri.20:00-22:00",
+            "Thurs.10:00-12:00"
+         ],
+         "gpa" : 9.0,
+         "student_no" : "S0167",
+         "tags" : [ "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D008", "D016", "D019", "D005" ],
+         "available_schedules" : [
+            "Tues.20:00-22:00",
+            "Sat.18:00-20:00",
+            "Mon.10:00-12:00",
+            "Mon.15:00-17:00"
+         ],
+         "gpa" : 1.8999999999999999,
+         "student_no" : "S0168",
+         "tags" : [ "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D005", "D003" ],
+         "available_schedules" : [
+            "Mon.15:00-17:00",
+            "Sat.15:00-17:00",
+            "Sat.18:00-20:00",
+            "Wed.18:00-20:00",
+            "Mon.10:00-12:00"
+         ],
+         "gpa" : 4.0999999999999996,
+         "student_no" : "S0169",
+         "tags" : [ "runing", "writing", "reading", "film", "painting" ]
+      },
+      {
+         "available_dep" : [ "D010", "D018", "D001" ],
+         "available_schedules" : [
+            "Thurs.15:00-17:00",
+            "Wed.13:00-15:00",
+            "Sat.18:00-20:00",
+            "Sun.20:00-22:00",
+            "Sat.15:00-17:00"
+         ],
+         "gpa" : 8.6999999999999993,
+         "student_no" : "S0170",
+         "tags" : [ "singing", "guitar", "football" ]
+      },
+      {
+         "available_dep" : [ "D005", "D003", "D009", "D013" ],
+         "available_schedules" : [ "Tues.13:00-15:00", "Sat.15:00-17:00", "Fri.18:00-20:00" ],
+         "gpa" : 2.8999999999999999,
+         "student_no" : "S0171",
+         "tags" : [ "basketball" ]
+      },
+      {
+         "available_dep" : [ "D001", "D012", "D015", "D004", "D017" ],
+         "available_schedules" : [
+            "Wed.13:00-15:00",
+            "Wed.20:00-22:00",
+            "Wed.18:00-20:00",
+            "Thurs.20:00-22:00",
+            "Tues.20:00-22:00"
+         ],
+         "gpa" : 9.9000000000000004,
+         "student_no" : "S0172",
+         "tags" : [ "film", "painting", "reading" ]
+      },
+      {
+         "available_dep" : [ "D000", "D019", "D011" ],
+         "available_schedules" : [ "Thurs.15:00-17:00", "Tues.15:00-17:00", "Mon.10:00-12:00" ],
+         "gpa" : 9.0,
+         "student_no" : "S0173",
+         "tags" : [ "reading", "film", "painting" ]
+      },
+      {
+         "available_dep" : [ "D006" ],
+         "available_schedules" : [ "Sun.15:00-17:00" ],
+         "gpa" : 6.4000000000000004,
+         "student_no" : "S0174",
+         "tags" : [
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D016" ],
+         "available_schedules" : [
+            "Sat.10:00-12:00",
+            "Mon.10:00-12:00",
+            "Sat.20:00-22:00",
+            "Mon.18:00-20:00",
+            "Thurs.18:00-20:00"
+         ],
+         "gpa" : 1.7,
+         "student_no" : "S0175",
+         "tags" : [ "singing", "guitar", "football", "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D002", "D010", "D002", "D014" ],
+         "available_schedules" : [
+            "Thurs.20:00-22:00",
+            "Wed.15:00-17:00",
+            "Thurs.10:00-12:00",
+            "Thurs.13:00-15:00",
+            "Fri.10:00-12:00"
+         ],
+         "gpa" : 3.0,
+         "student_no" : "S0176",
+         "tags" : [ "film" ]
+      },
+      {
+         "available_dep" : [ "D000", "D002", "D004" ],
+         "available_schedules" : [ "Fri.13:00-15:00", "Sat.18:00-20:00" ],
+         "gpa" : 4.5,
+         "student_no" : "S0177",
+         "tags" : [
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading"
+         ]
+      },
+      {
+         "available_dep" : [ "D016", "D012", "D016" ],
+         "available_schedules" : [
+            "Fri.15:00-17:00",
+            "Mon.15:00-17:00",
+            "Sun.15:00-17:00",
+            "Tues.20:00-22:00"
+         ],
+         "gpa" : 5.7999999999999998,
+         "student_no" : "S0178",
+         "tags" : [
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football",
+            "runing"
+         ]
+      },
+      {
+         "available_dep" : [ "D016", "D008", "D014", "D002" ],
+         "available_schedules" : [ "Mon.15:00-17:00" ],
+         "gpa" : 4.0999999999999996,
+         "student_no" : "S0179",
+         "tags" : [ "singing", "guitar", "football", "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D015", "D008", "D010" ],
+         "available_schedules" : [ "Sun.13:00-15:00", "Fri.20:00-22:00", "Wed.13:00-15:00" ],
+         "gpa" : 4.2999999999999998,
+         "student_no" : "S0180",
+         "tags" : [ "singing", "guitar", "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D006" ],
+         "available_schedules" : [ "Thurs.10:00-12:00", "Sun.20:00-22:00", "Fri.18:00-20:00" ],
+         "gpa" : 3.1000000000000001,
+         "student_no" : "S0181",
+         "tags" : [ "dancing", "singing", "guitar", "football" ]
+      },
+      {
+         "available_dep" : [ "D000", "D008", "D002", "D013", "D004" ],
+         "available_schedules" : [
+            "Tues.15:00-17:00",
+            "Thurs.20:00-22:00",
+            "Mon.13:00-15:00",
+            "Mon.10:00-12:00"
+         ],
+         "gpa" : 5.2000000000000002,
+         "student_no" : "S0182",
+         "tags" : [ "guitar", "football" ]
+      },
+      {
+         "available_dep" : [ "D010", "D016" ],
+         "available_schedules" : [
+            "Sun.13:00-15:00",
+            "Tues.20:00-22:00",
+            "Sat.18:00-20:00",
+            "Thurs.20:00-22:00"
+         ],
+         "gpa" : 6.0,
+         "student_no" : "S0183",
+         "tags" : [ "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D019", "D019", "D012", "D010" ],
+         "available_schedules" : [ "Sat.18:00-20:00" ],
+         "gpa" : 5.4000000000000004,
+         "student_no" : "S0184",
+         "tags" : [ "dancing", "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D005", "D017" ],
+         "available_schedules" : [ "Wed.15:00-17:00", "Sat.10:00-12:00" ],
+         "gpa" : 7.5,
+         "student_no" : "S0185",
+         "tags" : [
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing"
+         ]
+      },
+      {
+         "available_dep" : [ "D014", "D006" ],
+         "available_schedules" : [ "Sun.13:00-15:00" ],
+         "gpa" : 9.1999999999999993,
+         "student_no" : "S0186",
+         "tags" : [ "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D005", "D016", "D011" ],
+         "available_schedules" : [ "Mon.15:00-17:00", "Mon.13:00-15:00", "Sun.20:00-22:00" ],
+         "gpa" : 0.29999999999999999,
+         "student_no" : "S0187",
+         "tags" : [ "reading", "basketball", "dancing", "singing", "guitar" ]
+      },
+      {
+         "available_dep" : [ "D017", "D011", "D003" ],
+         "available_schedules" : [ "Tues.20:00-22:00", "Fri.13:00-15:00", "Wed.15:00-17:00" ],
+         "gpa" : 8.9000000000000004,
+         "student_no" : "S0188",
+         "tags" : [ "film", "painting", "reading", "basketball" ]
+      },
+      {
+         "available_dep" : [ "D004", "D003", "D015" ],
+         "available_schedules" : [ "Tues.10:00-12:00", "Wed.13:00-15:00" ],
+         "gpa" : 9.9000000000000004,
+         "student_no" : "S0189",
+         "tags" : [
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D011", "D007", "D005", "D018", "D006" ],
+         "available_schedules" : [
+            "Sat.20:00-22:00",
+            "Sun.18:00-20:00",
+            "Mon.15:00-17:00",
+            "Thurs.18:00-20:00"
+         ],
+         "gpa" : 2.2999999999999998,
+         "student_no" : "S0190",
+         "tags" : [ "singing", "guitar", "football", "runing", "writing", "reading" ]
+      },
+      {
+         "available_dep" : [ "D008", "D013", "D001", "D018" ],
+         "available_schedules" : [ "Thurs.13:00-15:00", "Sat.18:00-20:00" ],
+         "gpa" : 3.5,
+         "student_no" : "S0191",
+         "tags" : [ "runing", "writing", "reading", "film", "painting", "reading" ]
+      },
+      {
+         "available_dep" : [ "D004", "D012", "D009" ],
+         "available_schedules" : [
+            "Wed.18:00-20:00",
+            "Thurs.20:00-22:00",
+            "Fri.20:00-22:00",
+            "Wed.15:00-17:00",
+            "Sat.15:00-17:00"
+         ],
+         "gpa" : 4.0,
+         "student_no" : "S0192",
+         "tags" : [ "dancing", "singing", "guitar", "football", "runing", "writing" ]
+      },
+      {
+         "available_dep" : [ "D005", "D006", "D019", "D014", "D000" ],
+         "available_schedules" : [ "Sat.18:00-20:00" ],
+         "gpa" : 4.9000000000000004,
+         "student_no" : "S0193",
+         "tags" : [ "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D012", "D014", "D019" ],
+         "available_schedules" : [ "Mon.13:00-15:00" ],
+         "gpa" : 0.90000000000000002,
+         "student_no" : "S0194",
+         "tags" : [
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing"
+         ]
+      },
+      {
+         "available_dep" : [ "D002", "D018", "D008", "D007" ],
+         "available_schedules" : [
+            "Fri.13:00-15:00",
+            "Thurs.15:00-17:00",
+            "Sun.10:00-12:00",
+            "Fri.20:00-22:00"
+         ],
+         "gpa" : 6.7999999999999998,
+         "student_no" : "S0195",
+         "tags" : [
+            "film",
+            "painting",
+            "reading",
+            "basketball",
+            "dancing",
+            "singing",
+            "guitar",
+            "football"
+         ]
+      },
+      {
+         "available_dep" : [ "D016", "D008", "D008", "D015", "D003" ],
+         "available_schedules" : [ "Wed.15:00-17:00", "Wed.15:00-17:00", "Sat.20:00-22:00" ],
+         "gpa" : 8.9000000000000004,
+         "student_no" : "S0196",
+         "tags" : [ "reading", "film", "painting", "reading" ]
+      },
+      {
+         "available_dep" : [ "D004" ],
+         "available_schedules" : [ "Sat.18:00-20:00" ],
+         "gpa" : 5.5,
+         "student_no" : "S0197",
+         "tags" : [ "singing", "guitar", "football", "runing" ]
+      },
+      {
+         "available_dep" : [ "D011", "D019", "D012" ],
+         "available_schedules" : [ "Sun.18:00-20:00" ],
+         "gpa" : 9.1999999999999993,
+         "student_no" : "S0198",
+         "tags" : [ "reading", "film" ]
+      },
+      {
+         "available_dep" : [ "D007", "D001" ],
+         "available_schedules" : [
+            "Tues.13:00-15:00",
+            "Fri.18:00-20:00",
+            "Thurs.13:00-15:00",
+            "Fri.18:00-20:00"
+         ],
+         "gpa" : 0.40000000000000002,
+         "student_no" : "S0199",
+         "tags" : [
+            "singing",
+            "guitar",
+            "football",
+            "runing",
+            "writing",
+            "reading",
+            "film",
+            "painting",
+            "reading",
+            "basketball"
+         ]
+      }
+   ]
+}
