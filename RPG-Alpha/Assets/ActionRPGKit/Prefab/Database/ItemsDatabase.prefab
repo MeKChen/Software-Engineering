@@ -1,0 +1,1546 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: ItemsDatabase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 39.536453, y: -7.025637, z: 24.790844}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 622dfc9f41b03c9419e3286165630283, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  usableItem:
+  - itemName: 
+    icon: {fileID: 0}
+    iconSprite: {fileID: 0}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 0
+    model: {fileID: 0}
+    description: 
+    description2: 
+    description3: 
+    price: 0
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+    sendMsg: 
+  - itemName: Potion
+    icon: {fileID: 2800000, guid: 09e2f0cde5706a44d941a156aee75795, type: 3}
+    iconSprite: {fileID: 21300000, guid: 09e2f0cde5706a44d941a156aee75795, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: 9d78cebd49c629c41a99195c3a977522, type: 2}
+    description: Recover 50 HP
+    description2: 
+    description3: 
+    price: 100
+    hpRecover: 50
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+    sendMsg: 
+  - itemName: Ether
+    icon: {fileID: 2800000, guid: b4f4a7e72683a474492deb64bd4c2df9, type: 3}
+    iconSprite: {fileID: 21300000, guid: b4f4a7e72683a474492deb64bd4c2df9, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: 79f18bfe5ca36b541b5f5cdc5136d874, type: 2}
+    description: Recover 50 MP
+    description2: 
+    description3: 
+    price: 100
+    hpRecover: 0
+    mpRecover: 50
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+    sendMsg: 
+  - itemName: High Potion
+    icon: {fileID: 2800000, guid: 968e8a4fd067ec04e88376f004353adc, type: 3}
+    iconSprite: {fileID: 21300000, guid: 968e8a4fd067ec04e88376f004353adc, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: 9d78cebd49c629c41a99195c3a977522, type: 2}
+    description: Recover 200 HP
+    description2: 
+    description3: 
+    price: 300
+    hpRecover: 200
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+    sendMsg: 
+  - itemName: High Ether
+    icon: {fileID: 2800000, guid: 8cddb794992241745807470e3be14af1, type: 3}
+    iconSprite: {fileID: 21300000, guid: 8cddb794992241745807470e3be14af1, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: 79f18bfe5ca36b541b5f5cdc5136d874, type: 2}
+    description: Recover 200 MP
+    description2: 
+    description3: 
+    price: 300
+    hpRecover: 0
+    mpRecover: 200
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+    sendMsg: 
+  - itemName: Power Source
+    icon: {fileID: 2800000, guid: 0a4619d995c93fd4e98cd19ca81191ae, type: 3}
+    iconSprite: {fileID: 21300000, guid: 0a4619d995c93fd4e98cd19ca81191ae, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: ATK +1
+    description2: 
+    description3: 
+    price: 1500
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 1
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+    sendMsg: 
+  - itemName: Vitality Source
+    icon: {fileID: 2800000, guid: c29b49f84422897459c67af763c09da9, type: 3}
+    iconSprite: {fileID: 21300000, guid: c29b49f84422897459c67af763c09da9, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: DEF +1
+    description2: 
+    description3: 
+    price: 1500
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 1
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+    sendMsg: 
+  - itemName: Mind Source
+    icon: {fileID: 2800000, guid: e2aaed0e79d32f8478f759f98d45baa4, type: 3}
+    iconSprite: {fileID: 21300000, guid: e2aaed0e79d32f8478f759f98d45baa4, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: MATK +1
+    description2: 
+    description3: 
+    price: 1500
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 1
+    mdefPlus: 0
+    unusable: 0
+    sendMsg: 
+  - itemName: Spirit Source
+    icon: {fileID: 2800000, guid: d6298d7786ea0074987feeaad95df348, type: 3}
+    iconSprite: {fileID: 21300000, guid: d6298d7786ea0074987feeaad95df348, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: MDEF +1
+    description2: 
+    description3: 
+    price: 1500
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 1
+    unusable: 0
+    sendMsg: 
+  - itemName: Trunk
+    icon: {fileID: 2800000, guid: 73529658d9d308a458b01da3a9fd6517, type: 3}
+    iconSprite: {fileID: 21300000, guid: 73529658d9d308a458b01da3a9fd6517, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: 
+    description2: 
+    description3: 
+    price: 50
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+    sendMsg: 
+  - itemName: Gel
+    icon: {fileID: 2800000, guid: b1e3c01aa63fe14478388cf80f80cbfb, type: 3}
+    iconSprite: {fileID: 21300000, guid: b1e3c01aa63fe14478388cf80f80cbfb, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: 
+    description2: 
+    description3: 
+    price: 40
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+    sendMsg: 
+  - itemName: Flame Stone
+    icon: {fileID: 2800000, guid: 1f1c41ee10a426a4693e96ab44d4eb95, type: 3}
+    iconSprite: {fileID: 21300000, guid: 1f1c41ee10a426a4693e96ab44d4eb95, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: 
+    description2: 
+    description3: 
+    price: 70
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+    sendMsg: 
+  - itemName: Spider Web
+    icon: {fileID: 2800000, guid: 740234aa81e1fd843982d7597582a1a2, type: 3}
+    iconSprite: {fileID: 21300000, guid: 740234aa81e1fd843982d7597582a1a2, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: 
+    description2: 
+    description3: 
+    price: 70
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+    sendMsg: 
+  - itemName: Spider Venom
+    icon: {fileID: 2800000, guid: 973a14359c9a3a249b4341db1bf03e99, type: 3}
+    iconSprite: {fileID: 21300000, guid: 973a14359c9a3a249b4341db1bf03e99, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: 
+    description2: 
+    description3: 
+    price: 80
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+    sendMsg: 
+  - itemName: Elder Trunk
+    icon: {fileID: 2800000, guid: 22e275ae99a83424dbd7345f33d4b8e6, type: 3}
+    iconSprite: {fileID: 21300000, guid: 22e275ae99a83424dbd7345f33d4b8e6, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: 
+    description2: 
+    description3: 
+    price: 100
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+    sendMsg: 
+  - itemName: Goblin Insignia
+    icon: {fileID: 2800000, guid: 110d7dc1ca40d0942a0a945091543e77, type: 3}
+    iconSprite: {fileID: 21300000, guid: 110d7dc1ca40d0942a0a945091543e77, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    description: 
+    description2: 
+    description3: 
+    price: 120
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+    sendMsg: 
+  equipment:
+  - itemName: 
+    icon: {fileID: 0}
+    iconSprite: {fileID: 0}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 0
+    model: {fileID: 0}
+    assignAllWeapon: 1
+    description: 
+    description2: 
+    description3: 
+    price: 10
+    weaponType: 0
+    attack: 0
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    jumpUpAnimation: {fileID: 0}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Steel Sword
+    icon: {fileID: 2800000, guid: 067552e2d6b3be7459101c779af7a7e7, type: 3}
+    iconSprite: {fileID: 21300000, guid: 067552e2d6b3be7459101c779af7a7e7, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: e2e2d6909e1a71448a1721a03c93c8e5, type: 2}
+    assignAllWeapon: 1
+    description: ATK 5 MATK 5
+    description2: 
+    description3: 
+    price: 1000
+    weaponType: 0
+    attack: 5
+    defense: 0
+    magicAttack: 5
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 100000, guid: a610653dfbe6c714b8011a57d4c51c7f, type: 2}
+    attackCombo:
+    - {fileID: 7400016, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400018, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400020, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400022, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400024, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    runAnimation: {fileID: 7400004, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    rightAnimation: {fileID: 7400012, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    leftAnimation: {fileID: 7400010, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    backAnimation: {fileID: 7400028, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    jumpAnimation: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    jumpUpAnimation: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Falchion
+    icon: {fileID: 2800000, guid: fa5af5120ae74814d9dbbe7caaa08904, type: 3}
+    iconSprite: {fileID: 21300000, guid: fa5af5120ae74814d9dbbe7caaa08904, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100002, guid: 6d6ad06e933143d498814495ef5f8a49, type: 2}
+    assignAllWeapon: 1
+    description: ATK 15
+    description2: 
+    description3: 
+    price: 2200
+    weaponType: 0
+    attack: 15
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 100000, guid: a610653dfbe6c714b8011a57d4c51c7f, type: 2}
+    attackCombo:
+    - {fileID: 7400016, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400018, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400020, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400022, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400024, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    runAnimation: {fileID: 7400004, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    rightAnimation: {fileID: 7400012, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    leftAnimation: {fileID: 7400010, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    backAnimation: {fileID: 7400028, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    jumpAnimation: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    jumpUpAnimation: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Magic Blade
+    icon: {fileID: 2800000, guid: 67daeb047e4ab20418ccca2e364b960a, type: 3}
+    iconSprite: {fileID: 21300000, guid: 67daeb047e4ab20418ccca2e364b960a, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100002, guid: 03e7a74da65937147ac24f6149be5c8f, type: 2}
+    assignAllWeapon: 1
+    description: ATK 25 MATK 25(Poison 40%)
+    description2: 
+    description3: 
+    price: 2600
+    weaponType: 0
+    attack: 25
+    defense: 0
+    magicAttack: 25
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 100000, guid: 8b16f2f19a2fa524294da8060d672148, type: 2}
+    attackCombo:
+    - {fileID: 7400016, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400018, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400020, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400022, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400024, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    runAnimation: {fileID: 7400004, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    rightAnimation: {fileID: 7400012, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    leftAnimation: {fileID: 7400010, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    backAnimation: {fileID: 7400028, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    jumpAnimation: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    jumpUpAnimation: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Fireblend
+    icon: {fileID: 2800000, guid: 230ec04caefb95f42a03791bc55992b2, type: 3}
+    iconSprite: {fileID: 21300000, guid: 230ec04caefb95f42a03791bc55992b2, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: aeb2612ad557dbc4fb6c9df38880d819, type: 2}
+    assignAllWeapon: 1
+    description: Cast Firebolt when Attack
+    description2: 
+    description3: 
+    price: 3300
+    weaponType: 0
+    attack: 5
+    defense: 0
+    magicAttack: 10
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 100000, guid: 0fbc7267436763a468a2d7c06e427b82, type: 2}
+    attackCombo:
+    - {fileID: 7400016, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400018, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400020, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400022, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400024, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    runAnimation: {fileID: 7400004, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    rightAnimation: {fileID: 7400012, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    leftAnimation: {fileID: 7400010, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    backAnimation: {fileID: 7400028, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    jumpAnimation: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    jumpUpAnimation: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Light Armor
+    icon: {fileID: 2800000, guid: ca7c59b691f7b134abacca466f84a899, type: 3}
+    iconSprite: {fileID: 21300000, guid: ca7c59b691f7b134abacca466f84a899, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: DEF 5
+    description2: 
+    description3: 
+    price: 1200
+    weaponType: 0
+    attack: 0
+    defense: 5
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 1
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    jumpUpAnimation: {fileID: 0}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Heavy Armor
+    icon: {fileID: 2800000, guid: 2b8bb069f6ffd5447a2ae6fb2a46068c, type: 3}
+    iconSprite: {fileID: 21300000, guid: 2b8bb069f6ffd5447a2ae6fb2a46068c, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: DEF 15
+    description2: 
+    description3: 
+    price: 2200
+    weaponType: 0
+    attack: 0
+    defense: 15
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 1
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    jumpUpAnimation: {fileID: 0}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Magic Coat
+    icon: {fileID: 2800000, guid: bb7bd61326dff4548b9b60865f247690, type: 3}
+    iconSprite: {fileID: 21300000, guid: bb7bd61326dff4548b9b60865f247690, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: DEF 20 MDEF 20
+    description2: 
+    description3: 
+    price: 2200
+    weaponType: 0
+    attack: 0
+    defense: 20
+    magicAttack: 0
+    magicDefense: 20
+    EquipmentType: 1
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    jumpUpAnimation: {fileID: 0}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Bow
+    icon: {fileID: 2800000, guid: 5d24e377eacb4e44293bdd3b31ad411e, type: 3}
+    iconSprite: {fileID: 21300000, guid: 5d24e377eacb4e44293bdd3b31ad411e, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: 4c34700efa00b494ab2128a3a0c9c672, type: 2}
+    assignAllWeapon: 0
+    description: ATK 5 (Long Range)
+    description2: 
+    description3: 
+    price: 750
+    weaponType: 1
+    attack: 5
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 100000, guid: ca27514356eda9b48917fa5af2faad4a, type: 2}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    runAnimation: {fileID: 7400004, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    rightAnimation: {fileID: 7400008, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    leftAnimation: {fileID: 7400006, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    backAnimation: {fileID: 7400012, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    jumpAnimation: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    jumpUpAnimation: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    whileAttack: 1
+    attackSpeed: 0.25
+    attackDelay: 0.2
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Hunter Bow
+    icon: {fileID: 2800000, guid: c11407efe1df7204fa0266412f1f2010, type: 3}
+    iconSprite: {fileID: 21300000, guid: c11407efe1df7204fa0266412f1f2010, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: ebfea756a460c5d42abc80729efc9a25, type: 2}
+    assignAllWeapon: 0
+    description: ATK 11 (Long Range)
+    description2: 
+    description3: 
+    price: 2200
+    weaponType: 1
+    attack: 11
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 100000, guid: ca27514356eda9b48917fa5af2faad4a, type: 2}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    runAnimation: {fileID: 7400004, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    rightAnimation: {fileID: 7400008, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    leftAnimation: {fileID: 7400006, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    backAnimation: {fileID: 7400012, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    jumpAnimation: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    jumpUpAnimation: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    whileAttack: 1
+    attackSpeed: 0.25
+    attackDelay: 0.2
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Battle Bow
+    icon: {fileID: 2800000, guid: e7e5bfc2155c7fd4b97ebc6e55435ad6, type: 3}
+    iconSprite: {fileID: 21300000, guid: e7e5bfc2155c7fd4b97ebc6e55435ad6, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: bc77afd2c73eb52449c52b0dd7d66ca7, type: 2}
+    assignAllWeapon: 0
+    description: ATK 18 (Long Range)
+    description2: 
+    description3: 
+    price: 3000
+    weaponType: 1
+    attack: 18
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 100000, guid: ca27514356eda9b48917fa5af2faad4a, type: 2}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    runAnimation: {fileID: 7400004, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    rightAnimation: {fileID: 7400008, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    leftAnimation: {fileID: 7400006, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    backAnimation: {fileID: 7400012, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    jumpAnimation: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    jumpUpAnimation: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    whileAttack: 1
+    attackSpeed: 0.25
+    attackDelay: 0.2
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: War Bow
+    icon: {fileID: 2800000, guid: 0f9554ed687d98f479df73cbf1cef958, type: 3}
+    iconSprite: {fileID: 21300000, guid: 0f9554ed687d98f479df73cbf1cef958, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 100000, guid: 0653a7478c19e4d4d9842947dba47c35, type: 2}
+    assignAllWeapon: 0
+    description: ATK 25 (Long Range)
+    description2: 
+    description3: 
+    price: 4200
+    weaponType: 1
+    attack: 25
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 100000, guid: ca27514356eda9b48917fa5af2faad4a, type: 2}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    runAnimation: {fileID: 7400004, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    rightAnimation: {fileID: 7400008, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    leftAnimation: {fileID: 7400006, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    backAnimation: {fileID: 7400012, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    jumpAnimation: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    jumpUpAnimation: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    whileAttack: 1
+    attackSpeed: 0.25
+    attackDelay: 0.2
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Double Jump
+    icon: {fileID: 2800000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    iconSprite: {fileID: 21300000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: You can perform double jump
+    description2: 
+    description3: 
+    price: 500
+    weaponType: 0
+    attack: 0
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 2
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    jumpUpAnimation: {fileID: 0}
+    whileAttack: 1
+    attackSpeed: 0.25
+    attackDelay: 0.2
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 1
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Vampire Ring
+    icon: {fileID: 2800000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    iconSprite: {fileID: 21300000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: You can drain enemy's HP for 10%
+    description2: 
+    description3: 
+    price: 500
+    weaponType: 0
+    attack: 0
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 2
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    jumpUpAnimation: {fileID: 0}
+    whileAttack: 1
+    attackSpeed: 0.25
+    attackDelay: 0.2
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 10
+    mpReduce: 0
+  - itemName: Magic Ring
+    icon: {fileID: 2800000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    iconSprite: {fileID: 21300000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: Reduce MP cost for 30%
+    description2: 
+    description3: 
+    price: 500
+    weaponType: 0
+    attack: 0
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 2
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    jumpUpAnimation: {fileID: 0}
+    whileAttack: 1
+    attackSpeed: 0.25
+    attackDelay: 0.2
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 30
+  - itemName: S. Resist Ring
+    icon: {fileID: 2800000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    iconSprite: {fileID: 21300000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: 100% All abnormal status resist
+    description2: 
+    description3: 
+    price: 1000
+    weaponType: 0
+    attack: 0
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 2
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    jumpUpAnimation: {fileID: 0}
+    whileAttack: 1
+    attackSpeed: 0.25
+    attackDelay: 0.2
+    statusResist:
+      poisonResist: 100
+      silenceResist: 100
+      webResist: 100
+      stunResist: 100
+    canDoubleJump: 0
+    autoGuard: 0
+    drainTouch: 0
+    mpReduce: 0
+  - itemName: Auto Guard
+    icon: {fileID: 2800000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    iconSprite: {fileID: 21300000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    spriteColor:
+      r: 1
+      g: 1
+      b: 1
+      a: 1
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: 25% to block incoming damage
+    description2: 
+    description3: 
+    price: 500
+    weaponType: 0
+    attack: 0
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 2
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    jumpUpAnimation: {fileID: 0}
+    whileAttack: 1
+    attackSpeed: 0.25
+    attackDelay: 0.2
+    statusResist:
+      poisonResist: 0
+      silenceResist: 0
+      webResist: 0
+      stunResist: 0
+    canDoubleJump: 0
+    autoGuard: 25
+    drainTouch: 0
+    mpReduce: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.size
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[1].jumpAnimation
+      value: 
+      objectReference: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[1].jumpUpAnimation
+      value: 
+      objectReference: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[2].jumpAnimation
+      value: 
+      objectReference: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[2].jumpUpAnimation
+      value: 
+      objectReference: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[3].jumpAnimation
+      value: 
+      objectReference: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[3].jumpUpAnimation
+      value: 
+      objectReference: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[4].jumpAnimation
+      value: 
+      objectReference: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[4].jumpUpAnimation
+      value: 
+      objectReference: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[8].jumpAnimation
+      value: 
+      objectReference: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[8].jumpUpAnimation
+      value: 
+      objectReference: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[9].jumpAnimation
+      value: 
+      objectReference: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[9].jumpUpAnimation
+      value: 
+      objectReference: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[10].jumpAnimation
+      value: 
+      objectReference: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[10].jumpUpAnimation
+      value: 
+      objectReference: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[11].jumpAnimation
+      value: 
+      objectReference: {fileID: 7400002, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[11].jumpUpAnimation
+      value: 
+      objectReference: {fileID: 7400000, guid: 814e376373ca8a1428e790bf128eef63, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[5].drainTouch
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[5].mpReduce
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[5].canDoubleJump
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[1].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 09e2f0cde5706a44d941a156aee75795,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[2].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b4f4a7e72683a474492deb64bd4c2df9,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[3].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 968e8a4fd067ec04e88376f004353adc,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[4].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8cddb794992241745807470e3be14af1,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[5].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0a4619d995c93fd4e98cd19ca81191ae,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[6].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c29b49f84422897459c67af763c09da9,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[7].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e2aaed0e79d32f8478f759f98d45baa4,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[8].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d6298d7786ea0074987feeaad95df348,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[9].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 73529658d9d308a458b01da3a9fd6517,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[10].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b1e3c01aa63fe14478388cf80f80cbfb,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[11].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1f1c41ee10a426a4693e96ab44d4eb95,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[12].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 740234aa81e1fd843982d7597582a1a2,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[13].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 973a14359c9a3a249b4341db1bf03e99,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[14].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 22e275ae99a83424dbd7345f33d4b8e6,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[15].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 110d7dc1ca40d0942a0a945091543e77,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[0].iconSprite
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: usableItem.Array.data[0].spriteColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[0].spriteColor.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[1].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 067552e2d6b3be7459101c779af7a7e7,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[2].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: fa5af5120ae74814d9dbbe7caaa08904,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[3].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 67daeb047e4ab20418ccca2e364b960a,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[4].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 230ec04caefb95f42a03791bc55992b2,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[5].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ca7c59b691f7b134abacca466f84a899,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[6].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2b8bb069f6ffd5447a2ae6fb2a46068c,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[7].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: bb7bd61326dff4548b9b60865f247690,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[8].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5d24e377eacb4e44293bdd3b31ad411e,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[9].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c11407efe1df7204fa0266412f1f2010,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[10].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e7e5bfc2155c7fd4b97ebc6e55435ad6,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[11].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0f9554ed687d98f479df73cbf1cef958,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].idleAnimation
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].runAnimation
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].rightAnimation
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].leftAnimation
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].backAnimation
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].jumpAnimation
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].jumpUpAnimation
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].attackPrefab
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].EquipmentType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].price
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].weaponType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].attack
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].description
+      value: You can perform double jump
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].model
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].icon
+      value: 
+      objectReference: {fileID: 2800000, guid: 6c672694a580c3543a22da542bf947a5, type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].iconSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6c672694a580c3543a22da542bf947a5,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].itemName
+      value: Double Jump
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[12].canDoubleJump
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[13].itemName
+      value: Vampire Ring
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[13].canDoubleJump
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[13].description
+      value: You can drain enemy's HP for 10%
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[13].drainTouch
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[14].itemName
+      value: Magic Ring
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[14].drainTouch
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[14].description
+      value: Reduce MP cost for 30%
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[14].mpReduce
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[15].itemName
+      value: S. Resist Ring
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[15].statusResist.poisonResist
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[15].mpReduce
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[15].description
+      value: 100% All abnormal status resist
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[15].statusResist.silenceResist
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[15].statusResist.webResist
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[15].statusResist.stunResist
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[16].itemName
+      value: Auto Guard
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[16].description
+      value: 25% to block incoming damage
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[16].statusResist.silenceResist
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[16].statusResist.poisonResist
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[16].statusResist.webResist
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[16].statusResist.stunResist
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[16].autoGuard
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[16].price
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[15].price
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[14].price
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: equipment.Array.data[13].price
+      value: 500
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
