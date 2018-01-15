@@ -8,12 +8,14 @@ public class Lasttowin : MonoBehaviour {
 
 
     public GameObject player;
-    
+    //public GameObject OverBag;
+    // Use this for initialization
     void Start()
     {
         // OverBag.gameObject.SetActive(false);
     }
 
+    // Update is called once per frame
     void Update()
     {
         player = GameObject.FindGameObjectWithTag("Player");
@@ -24,6 +26,7 @@ public class Lasttowin : MonoBehaviour {
             Destroy(player);
           player. GetComponent<UiMasterC>().DestroyAllUi();
             Application.LoadLevel(Scenename);
+            //OverBag.gameObject.SetActive(true);
         }
 
     }
